@@ -1,0 +1,899 @@
+Pokemon Name,Description
+Medicham,Medicham is a Fighting/Psychic type Pokémon introduced in Generation 3. It is known as the Meditate Pokémon.
+Chinchou,Chinchou is a Water/Electric type Pokémon introduced in Generation 2. It is known as the Angler Pokémon.
+Snivy,Snivy is a Grass type Pokémon introduced in Generation 5. It is known as the Grass Snake Pokémon.
+Magcargo,Magcargo is a Fire/Rock type Pokémon introduced in Generation 2. It is known as the Lava Pokémon.
+Lombre,Lombre is a Water/Grass type Pokémon introduced in Generation 3. It is known as the Jolly Pokémon.
+Typhlosion,Typhlosion is a Fire type Pokémon introduced in Generation 2. It is known as the Volcano Pokémon.
+Dubwool,Dubwool is a Normal type Pokémon introduced in Generation 8. It is known as the Sheep Pokémon.
+Nincada,Nincada is a Bug/Ground type Pokémon introduced in Generation 3. It is known as the Trainee Pokémon.
+Vanilluxe,Vanilluxe is an Ice type Pokémon introduced in Generation 5. It is known as the Snowstorm Pokémon.
+Beautifly,Beautifly is a Bug/Flying type Pokémon introduced in Generation 3. It is known as the Butterfly Pokémon.
+Trapinch,Trapinch is a Ground type Pokémon introduced in Generation 3. It is known as the Ant Pit Pokémon.
+Quilava,Quilava is a Fire type Pokémon introduced in Generation 2. It is known as the Volcano Pokémon.
+Marshtomp,Marshtomp is a Water/Ground type Pokémon introduced in Generation 3. It is known as the Mud Fish Pokémon.
+Crustle,Crustle is a Bug/Rock type Pokémon introduced in Generation 5. It is known as the Stone Home Pokémon.
+Starmie,Starmie is a Water/Psychic type Pokémon introduced in Generation 1. It is known as the Mysterious Pokémon.
+Swablu,Swablu is a Normal/Flying type Pokémon introduced in Generation 3. It is known as the Cotton Bird Pokémon.
+Elekid,Elekid is an Electric type Pokémon introduced in Generation 2. It is known as the Electric Pokémon.
+Quilladin,Quilladin is a Grass type Pokémon introduced in Generation 6. It is known as the Spiny Armor Pokémon.
+Magnezone,Magnezone is an Electric/Steel type Pokémon introduced in Generation 4. It is known as the Magnet Area Pokémon.
+Tropius,Tropius is a Grass/Flying type Pokémon introduced in Generation 3. It is known as the Fruit Pokémon.
+Ralts,Ralts is a Psychic/Fairy type Pokémon introduced in Generation 3. It is known as the Feeling Pokémon.
+Golbat,Golbat is a Poison/Flying type Pokémon introduced in Generation 1. It is known as the Bat Pokémon.
+Camerupt,Camerupt is a Fire/Ground type Pokémon introduced in Generation 3. It is known as the Eruption Pokémon.
+Manaphy,Manaphy is a Water type Pokémon introduced in Generation 4. It is known as the Seafaring Pokémon.
+Serperior,Serperior is a Grass type Pokémon introduced in Generation 5. It is known as the Regal Pokémon.
+Bergmite,Bergmite is an Ice type Pokémon introduced in Generation 6. It is known as the Ice Chunk Pokémon.
+Meganium,Meganium is a Grass type Pokémon introduced in Generation 2. It is known as the Herb Pokémon.
+Machoke,Machoke is a Fighting type Pokémon introduced in Generation 1. It is known as the Superpower Pokémon.
+Skitty,Skitty is a Normal type Pokémon introduced in Generation 3. It is known as the Kitten Pokémon.
+Litwick,Litwick is a Ghost/Fire type Pokémon introduced in Generation 5. It is known as the Candle Pokémon.
+Toxapex,Toxapex is a Poison/Water type Pokémon introduced in Generation 7. It is known as the Brutal Star Pokémon.
+Krabby,Krabby is a Water type Pokémon introduced in Generation 1. It is known as the River Crab Pokémon.
+Metagross,Metagross is a Steel/Psychic type Pokémon introduced in Generation 3. It is known as the Iron Leg Pokémon.
+Piloswine,Piloswine is an Ice/Ground type Pokémon introduced in Generation 2. It is known as the Swine Pokémon.
+Pumpkaboo,Pumpkaboo is a Ghost/Grass type Pokémon introduced in Generation 6. It is known as the Pumpkin Pokémon.
+Finneon,Finneon is a Water type Pokémon introduced in Generation 4. It is known as the Wing Fish Pokémon.
+Moltres,Moltres is a Fire/Flying type Pokémon introduced in Generation 1. It is known as the Flame Pokémon.
+Steenee,Steenee is a Grass type Pokémon introduced in Generation 7. It is known as the Fruit Pokémon.
+Meloetta,Meloetta is a Normal/Psychic type Pokémon introduced in Generation 5. It is known as the Melody Pokémon.
+Eelektross,Eelektross is an Electric type Pokémon introduced in Generation 5. It is known as the EleFish Pokémon.
+Lickitung,Lickitung is a Normal type Pokémon introduced in Generation 1. It is known as the Licking Pokémon.
+Tentacool,Tentacool is a Water/Poison type Pokémon introduced in Generation 1. It is known as the Jellyfish Pokémon.
+Diggersby,Diggersby is a Normal/Ground type Pokémon introduced in Generation 6. It is known as the Digging Pokémon.
+Furret,Furret is a Normal type Pokémon introduced in Generation 2. It is known as the Long Body Pokémon.
+Primeape,Primeape is a Fighting type Pokémon introduced in Generation 1. It is known as the Pig Monkey Pokémon.
+Florges,Florges is a Fairy type Pokémon introduced in Generation 6. It is known as the Garden Pokémon.
+Toxicroak,Toxicroak is a Poison/Fighting type Pokémon introduced in Generation 4. It is known as the Toxic Mouth Pokémon.
+Pineco,Pineco is a Bug type Pokémon introduced in Generation 2. It is known as the Bagworm Pokémon.
+Togepi,Togepi is a Fairy type Pokémon introduced in Generation 2. It is known as the Spike Ball Pokémon.
+Rolycoly,Rolycoly is a Rock type Pokémon introduced in Generation 8. It is known as the Coal Pokémon.
+Swinub,Swinub is an Ice/Ground type Pokémon introduced in Generation 2. It is known as the Pig Pokémon.
+Scorbunny,Scorbunny is a Fire type Pokémon introduced in Generation 8. It is known as the Rabbit Pokémon.
+Celesteela,Celesteela is a Steel/Flying type Pokémon introduced in Generation 7. It is known as the Launch Pokémon.
+Palossand,Palossand is a Ghost/Ground type Pokémon introduced in Generation 7. It is known as the Sand Castle Pokémon.
+Elgyem,Elgyem is a Psychic type Pokémon introduced in Generation 5. It is known as the Cerebral Pokémon.
+Glalie,Glalie is an Ice type Pokémon introduced in Generation 3. It is known as the Face Pokémon.
+Diancie,Diancie is a Rock/Fairy type Pokémon introduced in Generation 6. It is known as the Jewel Pokémon.
+Doduo,Doduo is a Normal/Flying type Pokémon introduced in Generation 1. It is known as the Twin Bird Pokémon.
+Comfey,Comfey is a Fairy type Pokémon introduced in Generation 7. It is known as the Posy Picker Pokémon.
+Machop,Machop is a Fighting type Pokémon introduced in Generation 1. It is known as the Superpower Pokémon.
+Ducklett,Ducklett is a Water/Flying type Pokémon introduced in Generation 5. It is known as the Water Bird Pokémon.
+Lileep,Lileep is a Rock/Grass type Pokémon introduced in Generation 3. It is known as the Sea Lily Pokémon.
+Infernape,Infernape is a Fire/Fighting type Pokémon introduced in Generation 4. It is known as the Flame Pokémon.
+Rowlet,Rowlet is a Grass/Flying type Pokémon introduced in Generation 7. It is known as the Grass Quill Pokémon.
+Cramorant,Cramorant is a Flying/Water type Pokémon introduced in Generation 8. It is known as the Gulp Pokémon.
+Charmeleon,Charmeleon is a Fire type Pokémon introduced in Generation 1. It is known as the Flame Pokémon.
+Murkrow,Murkrow is a Dark/Flying type Pokémon introduced in Generation 2. It is known as the Darkness Pokémon.
+Simisage,Simisage is a Grass type Pokémon introduced in Generation 5. It is known as the Thorn Monkey Pokémon.
+Salazzle,Salazzle is a Poison/Fire type Pokémon introduced in Generation 7. It is known as the Toxic Lizard Pokémon.
+Rayquaza,Rayquaza is a Dragon/Flying type Pokémon introduced in Generation 3. It is known as the Sky High Pokémon.
+Mantyke,Mantyke is a Water/Flying type Pokémon introduced in Generation 4. It is known as the Kite Pokémon.
+Mewtwo,Mewtwo is a Psychic type Pokémon introduced in Generation 1. It is known as the Genetic Pokémon.
+Beedrill,Beedrill is a Bug/Poison type Pokémon introduced in Generation 1. It is known as the Poison Bee Pokémon.
+Carbink,Carbink is a Rock/Fairy type Pokémon introduced in Generation 6. It is known as the Jewel Pokémon.
+Larvitar,Larvitar is a Rock/Ground type Pokémon introduced in Generation 2. It is known as the Rock Skin Pokémon.
+Drizzile,Drizzile is a Water type Pokémon introduced in Generation 8. It is known as the Water lizard Pokémon.
+Duraludon,Duraludon is a Steel/Dragon type Pokémon introduced in Generation 8. It is known as the Alloy Pokémon.
+Musharna,Musharna is a Psychic type Pokémon introduced in Generation 5. It is known as the Drowsing Pokémon.
+Braviary,Braviary is a Normal/Flying type Pokémon introduced in Generation 5. It is known as the Valiant Pokémon.
+Fraxure,Fraxure is a Dragon type Pokémon introduced in Generation 5. It is known as the Axe Jaw Pokémon.
+Tangrowth,Tangrowth is a Grass type Pokémon introduced in Generation 4. It is known as the Vine Pokémon.
+Dracovish,Dracovish is a Water/Dragon type Pokémon introduced in Generation 8. It is known as the Fossil Pokémon.
+Accelgor,Accelgor is a Bug type Pokémon introduced in Generation 5. It is known as the Shell Out Pokémon.
+Gothita,Gothita is a Psychic type Pokémon introduced in Generation 5. It is known as the Fixation Pokémon.
+Corphish,Corphish is a Water type Pokémon introduced in Generation 3. It is known as the Ruffian Pokémon.
+Magby,Magby is a Fire type Pokémon introduced in Generation 2. It is known as the Live Coal Pokémon.
+Trevenant,Trevenant is a Ghost/Grass type Pokémon introduced in Generation 6. It is known as the Elder Tree Pokémon.
+Sentret,Sentret is a Normal type Pokémon introduced in Generation 2. It is known as the Scout Pokémon.
+Nidoking,Nidoking is a Poison/Ground type Pokémon introduced in Generation 1. It is known as the Drill Pokémon.
+Phantump,Phantump is a Ghost/Grass type Pokémon introduced in Generation 6. It is known as the Stump Pokémon.
+Sandshrew,Sandshrew is a Ground type Pokémon introduced in Generation 1. It is known as the Mouse Pokémon.
+Loudred,Loudred is a Normal type Pokémon introduced in Generation 3. It is known as the Big Voice Pokémon.
+Totodile,Totodile is a Water type Pokémon introduced in Generation 2. It is known as the Big Jaw Pokémon.
+Vullaby,Vullaby is a Dark/Flying type Pokémon introduced in Generation 5. It is known as the Diapered Pokémon.
+Dwebble,Dwebble is a Bug/Rock type Pokémon introduced in Generation 5. It is known as the Rock Inn Pokémon.
+Whirlipede,Whirlipede is a Bug/Poison type Pokémon introduced in Generation 5. It is known as the Curlipede Pokémon.
+Tyrogue,Tyrogue is a Fighting type Pokémon introduced in Generation 2. It is known as the Scuffle Pokémon.
+Samurott,Samurott is a Water type Pokémon introduced in Generation 5. It is known as the Formidable Pokémon.
+Spinarak,Spinarak is a Bug/Poison type Pokémon introduced in Generation 2. It is known as the String Spit Pokémon.
+Bayleef,Bayleef is a Grass type Pokémon introduced in Generation 2. It is known as the Leaf Pokémon.
+Gorebyss,Gorebyss is a Water type Pokémon introduced in Generation 3. It is known as the South Sea Pokémon.
+Bouffalant,Bouffalant is a Normal type Pokémon introduced in Generation 5. It is known as the Bash Buffalo Pokémon.
+Genesect,Genesect is a Bug/Steel type Pokémon introduced in Generation 5. It is known as the Paleozoic Pokémon.
+Sceptile,Sceptile is a Grass type Pokémon introduced in Generation 3. It is known as the Forest Pokémon.
+Karrablast,Karrablast is a Bug type Pokémon introduced in Generation 5. It is known as the Clamping Pokémon.
+Skwovet,Skwovet is a Normal type Pokémon introduced in Generation 8. It is known as the Cheeky Pokémon.
+Sneasel,Sneasel is a Dark/Ice type Pokémon introduced in Generation 2. It is known as the Sharp Claw Pokémon.
+Spectrier,Spectrier is a Ghost type Pokémon introduced in Generation 8. It is known as the Swift Horse Pokémon.
+Dreepy,Dreepy is a Dragon/Ghost type Pokémon introduced in Generation 8. It is known as the Lingering Pokémon.
+Oshawott,Oshawott is a Water type Pokémon introduced in Generation 5. It is known as the Sea Otter Pokémon.
+Gothitelle,Gothitelle is a Psychic type Pokémon introduced in Generation 5. It is known as the Astral Body Pokémon.
+Darumaka,Darumaka is a Fire type Pokémon introduced in Generation 5. It is known as the Zen Charm Pokémon.
+Zigzagoon,Zigzagoon is a Normal type Pokémon introduced in Generation 3. It is known as the TinyRaccoon Pokémon.
+Chandelure,Chandelure is a Ghost/Fire type Pokémon introduced in Generation 5. It is known as the Luring Pokémon.
+Magnemite,Magnemite is an Electric/Steel type Pokémon introduced in Generation 1. It is known as the Magnet Pokémon.
+Pidgey,Pidgey is a Normal/Flying type Pokémon introduced in Generation 1. It is known as the Tiny Bird Pokémon.
+Krookodile,Krookodile is a Ground/Dark type Pokémon introduced in Generation 5. It is known as the Intimidation Pokémon.
+Cyndaquil,Cyndaquil is a Fire type Pokémon introduced in Generation 2. It is known as the Fire Mouse Pokémon.
+Drilbur,Drilbur is a Ground type Pokémon introduced in Generation 5. It is known as the Mole Pokémon.
+Roselia,Roselia is a Grass/Poison type Pokémon introduced in Generation 3. It is known as the Thorn Pokémon.
+Pachirisu,Pachirisu is an Electric type Pokémon introduced in Generation 4. It is known as the EleSquirrel Pokémon.
+Smoochum,Smoochum is an Ice/Psychic type Pokémon introduced in Generation 2. It is known as the Kiss Pokémon.
+Koffing,Koffing is a Poison type Pokémon introduced in Generation 1. It is known as the Poison Gas Pokémon.
+Cosmog,Cosmog is a Psychic type Pokémon introduced in Generation 7. It is known as the Nebula Pokémon.
+Bewear,Bewear is a Normal/Fighting type Pokémon introduced in Generation 7. It is known as the Strong Arm Pokémon.
+Gengar,Gengar is a Ghost/Poison type Pokémon introduced in Generation 1. It is known as the Shadow Pokémon.
+Bellsprout,Bellsprout is a Grass/Poison type Pokémon introduced in Generation 1. It is known as the Flower Pokémon.
+Lucario,Lucario is a Fighting/Steel type Pokémon introduced in Generation 4. It is known as the Aura Pokémon.
+Geodude,Geodude is a Rock/Ground type Pokémon introduced in Generation 1. It is known as the Rock Pokémon.
+Chansey,Chansey is a Normal type Pokémon introduced in Generation 1. It is known as the Egg Pokémon.
+Beldum,Beldum is a Steel/Psychic type Pokémon introduced in Generation 3. It is known as the Iron Ball Pokémon.
+Oricorio,Oricorio is a Fire/Flying type Pokémon introduced in Generation 7. It is known as the Dancing Pokémon.
+Impidimp,Impidimp is a Dark/Fairy type Pokémon introduced in Generation 8. It is known as the Wily Pokémon.
+Banette,Banette is a Ghost type Pokémon introduced in Generation 3. It is known as the Marionette Pokémon.
+Silicobra,Silicobra is a Ground type Pokémon introduced in Generation 8. It is known as the Sand Snake Pokémon.
+Meditite,Meditite is a Fighting/Psychic type Pokémon introduced in Generation 3. It is known as the Meditate Pokémon.
+Boltund,Boltund is an Electric type Pokémon introduced in Generation 8. It is known as the Dog Pokémon.
+Clefable,Clefable is a Fairy type Pokémon introduced in Generation 1. It is known as the Fairy Pokémon.
+Raboot,Raboot is a Fire type Pokémon introduced in Generation 8. It is known as the Rabbit Pokémon.
+Pupitar,Pupitar is a Rock/Ground type Pokémon introduced in Generation 2. It is known as the Hard Shell Pokémon.
+Emboar,Emboar is a Fire/Fighting type Pokémon introduced in Generation 5. It is known as the Mega Fire Pig Pokémon.
+Cherrim,Cherrim is a Grass type Pokémon introduced in Generation 4. It is known as the Blossom Pokémon.
+Rhydon,Rhydon is a Ground/Rock type Pokémon introduced in Generation 1. It is known as the Drill Pokémon.
+Chimecho,Chimecho is a Psychic type Pokémon introduced in Generation 3. It is known as the Wind Chime Pokémon.
+Vanillite,Vanillite is an Ice type Pokémon introduced in Generation 5. It is known as the Fresh Snow Pokémon.
+Klefki,Klefki is a Steel/Fairy type Pokémon introduced in Generation 6. It is known as the Key Ring Pokémon.
+Melmetal,Melmetal is a Steel type Pokémon introduced in Generation 7. It is known as the Hex Nut Pokémon.
+Suicune,Suicune is a Water type Pokémon introduced in Generation 2. It is known as the Aurora Pokémon.
+Scolipede,Scolipede is a Bug/Poison type Pokémon introduced in Generation 5. It is known as the Megapede Pokémon.
+Yamask,Yamask is a Ghost type Pokémon introduced in Generation 5. It is known as the Spirit Pokémon.
+Kommo-o,Kommo-o is a Dragon/Fighting type Pokémon introduced in Generation 7. It is known as the Scaly Pokémon.
+Thievul,Thievul is a Dark type Pokémon introduced in Generation 8. It is known as the Fox Pokémon.
+Budew,Budew is a Grass/Poison type Pokémon introduced in Generation 4. It is known as the Bud Pokémon.
+Abomasnow,Abomasnow is a Grass/Ice type Pokémon introduced in Generation 4. It is known as the Frost Tree Pokémon.
+Abra,Abra is a Psychic type Pokémon introduced in Generation 1. It is known as the Psi Pokémon.
+Dragonite,Dragonite is a Dragon/Flying type Pokémon introduced in Generation 1. It is known as the Dragon Pokémon.
+Nidorina,Nidorina is a Poison type Pokémon introduced in Generation 1. It is known as the Poison Pin Pokémon.
+Floatzel,Floatzel is a Water type Pokémon introduced in Generation 4. It is known as the Sea Weasel Pokémon.
+Palkia,Palkia is a Water/Dragon type Pokémon introduced in Generation 4. It is known as the Spatial Pokémon.
+Pansage,Pansage is a Grass type Pokémon introduced in Generation 5. It is known as the Grass Monkey Pokémon.
+Gyarados,Gyarados is a Water/Flying type Pokémon introduced in Generation 1. It is known as the Atrocious Pokémon.
+Mankey,Mankey is a Fighting type Pokémon introduced in Generation 1. It is known as the Pig Monkey Pokémon.
+Shiinotic,Shiinotic is a Grass/Fairy type Pokémon introduced in Generation 7. It is known as the Illuminating Pokémon.
+Togedemaru,Togedemaru is an Electric/Steel type Pokémon introduced in Generation 7. It is known as the Roly-Poly Pokémon.
+Lurantis,Lurantis is a Grass type Pokémon introduced in Generation 7. It is known as the Bloom Sickle Pokémon.
+Flaaffy,Flaaffy is an Electric type Pokémon introduced in Generation 2. It is known as the Wool Pokémon.
+Porygon2,Porygon2 is a Normal type Pokémon introduced in Generation 2. It is known as the Virtual Pokémon.
+Scyther,Scyther is a Bug/Flying type Pokémon introduced in Generation 1. It is known as the Mantis Pokémon.
+Goomy,Goomy is a Dragon type Pokémon introduced in Generation 6. It is known as the Soft Tissue Pokémon.
+Slurpuff,Slurpuff is a Fairy type Pokémon introduced in Generation 6. It is known as the Meringue Pokémon.
+Virizion,Virizion is a Grass/Fighting type Pokémon introduced in Generation 5. It is known as the Grassland Pokémon.
+Exploud,Exploud is a Normal type Pokémon introduced in Generation 3. It is known as the Loud Noise Pokémon.
+Seadra,Seadra is a Water type Pokémon introduced in Generation 1. It is known as the Dragon Pokémon.
+Larvesta,Larvesta is a Bug/Fire type Pokémon introduced in Generation 5. It is known as the Torch Pokémon.
+Fearow,Fearow is a Normal/Flying type Pokémon introduced in Generation 1. It is known as the Beak Pokémon.
+Ribombee,Ribombee is a Bug/Fairy type Pokémon introduced in Generation 7. It is known as the Bee Fly Pokémon.
+Feebas,Feebas is a Water type Pokémon introduced in Generation 3. It is known as the Fish Pokémon.
+Carracosta,Carracosta is a Water/Rock type Pokémon introduced in Generation 5. It is known as the Prototurtle Pokémon.
+Brionne,Brionne is a Water type Pokémon introduced in Generation 7. It is known as the Pop Star Pokémon.
+Conkeldurr,Conkeldurr is a Fighting type Pokémon introduced in Generation 5. It is known as the Muscular Pokémon.
+Shelmet,Shelmet is a Bug type Pokémon introduced in Generation 5. It is known as the Snail Pokémon.
+Kingdra,Kingdra is a Water/Dragon type Pokémon introduced in Generation 2. It is known as the Dragon Pokémon.
+Woobat,Woobat is a Psychic/Flying type Pokémon introduced in Generation 5. It is known as the Bat Pokémon.
+Bibarel,Bibarel is a Normal/Water type Pokémon introduced in Generation 4. It is known as the Beaver Pokémon.
+Wigglytuff,Wigglytuff is a Normal/Fairy type Pokémon introduced in Generation 1. It is known as the Balloon Pokémon.
+Milotic,Milotic is a Water type Pokémon introduced in Generation 3. It is known as the Tender Pokémon.
+Wurmple,Wurmple is a Bug type Pokémon introduced in Generation 3. It is known as the Worm Pokémon.
+Alakazam,Alakazam is a Psychic type Pokémon introduced in Generation 1. It is known as the Psi Pokémon.
+Mightyena,Mightyena is a Dark type Pokémon introduced in Generation 3. It is known as the Bite Pokémon.
+Nickit,Nickit is a Dark type Pokémon introduced in Generation 8. It is known as the Fox Pokémon.
+Tauros,Tauros is a Normal type Pokémon introduced in Generation 1. It is known as the Wild Bull Pokémon.
+Minior,Minior is a Rock/Flying type Pokémon introduced in Generation 7. It is known as the Meteor Pokémon.
+Gourgeist,Gourgeist is a Ghost/Grass type Pokémon introduced in Generation 6. It is known as the Pumpkin Pokémon.
+Numel,Numel is a Fire/Ground type Pokémon introduced in Generation 3. It is known as the Numb Pokémon.
+Masquerain,Masquerain is a Bug/Flying type Pokémon introduced in Generation 3. It is known as the Eyeball Pokémon.
+Shroomish,Shroomish is a Grass type Pokémon introduced in Generation 3. It is known as the Mushroom Pokémon.
+Indeedee,Indeedee is a Psychic/Normal type Pokémon introduced in Generation 8. It is known as the Emotion Pokémon.
+Torracat,Torracat is a Fire type Pokémon introduced in Generation 7. It is known as the Fire Cat Pokémon.
+Seaking,Seaking is a Water type Pokémon introduced in Generation 1. It is known as the Goldfish Pokémon.
+Poliwhirl,Poliwhirl is a Water type Pokémon introduced in Generation 1. It is known as the Tadpole Pokémon.
+Delphox,Delphox is a Fire/Psychic type Pokémon introduced in Generation 6. It is known as the Fox Pokémon.
+Ninjask,Ninjask is a Bug/Flying type Pokémon introduced in Generation 3. It is known as the Ninja Pokémon.
+Luxio,Luxio is an Electric type Pokémon introduced in Generation 4. It is known as the Spark Pokémon.
+Lunatone,Lunatone is a Rock/Psychic type Pokémon introduced in Generation 3. It is known as the Meteorite Pokémon.
+Falinks,Falinks is a Fighting type Pokémon introduced in Generation 8. It is known as the Formation Pokémon.
+Whismur,Whismur is a Normal type Pokémon introduced in Generation 3. It is known as the Whisper Pokémon.
+Gogoat,Gogoat is a Grass type Pokémon introduced in Generation 6. It is known as the Mount Pokémon.
+Palpitoad,Palpitoad is a Water/Ground type Pokémon introduced in Generation 5. It is known as the Vibration Pokémon.
+Zweilous,Zweilous is a Dark/Dragon type Pokémon introduced in Generation 5. It is known as the Hostile Pokémon.
+Spearow,Spearow is a Normal/Flying type Pokémon introduced in Generation 1. It is known as the Tiny Bird Pokémon.
+Cherubi,Cherubi is a Grass type Pokémon introduced in Generation 4. It is known as the Cherry Pokémon.
+Skorupi,Skorupi is a Poison/Bug type Pokémon introduced in Generation 4. It is known as the Scorpion Pokémon.
+Cottonee,Cottonee is a Grass/Fairy type Pokémon introduced in Generation 5. It is known as the Cotton Puff Pokémon.
+Sinistea,Sinistea is a Ghost type Pokémon introduced in Generation 8. It is known as the Black Tea Pokémon.
+Haxorus,Haxorus is a Dragon type Pokémon introduced in Generation 5. It is known as the Axe Jaw Pokémon.
+Grapploct,Grapploct is a Fighting type Pokémon introduced in Generation 8. It is known as the Tantrum Pokémon.
+Pidgeot,Pidgeot is a Normal/Flying type Pokémon introduced in Generation 1. It is known as the Bird Pokémon.
+Mew,Mew is a Psychic type Pokémon introduced in Generation 1. It is known as the New Species Pokémon.
+Zygarde,Zygarde is a Dragon/Ground type Pokémon introduced in Generation 6. It is known as the Order Pokémon.
+Scizor,Scizor is a Bug/Steel type Pokémon introduced in Generation 2. It is known as the Pincer Pokémon.
+Kecleon,Kecleon is a Normal type Pokémon introduced in Generation 3. It is known as the Color Swap Pokémon.
+Purugly,Purugly is a Normal type Pokémon introduced in Generation 4. It is known as the Tiger Cat Pokémon.
+Shinx,Shinx is an Electric type Pokémon introduced in Generation 4. It is known as the Flash Pokémon.
+Giratina,Giratina is a Ghost/Dragon type Pokémon introduced in Generation 4. It is known as the Renegade Pokémon.
+Spewpa,Spewpa is a Bug type Pokémon introduced in Generation 6. It is known as the Scatterdust Pokémon.
+Druddigon,Druddigon is a Dragon type Pokémon introduced in Generation 5. It is known as the Cave Pokémon.
+Cubone,Cubone is a Ground type Pokémon introduced in Generation 1. It is known as the Lonely Pokémon.
+Grubbin,Grubbin is a Bug type Pokémon introduced in Generation 7. It is known as the Larva Pokémon.
+Lillipup,Lillipup is a Normal type Pokémon introduced in Generation 5. It is known as the Puppy Pokémon.
+Blacephalon,Blacephalon is a Fire/Ghost type Pokémon introduced in Generation 7. It is known as the Fireworks Pokémon.
+Poipole,Poipole is a Poison type Pokémon introduced in Generation 7. It is known as the Poison Pin Pokémon.
+Nidoqueen,Nidoqueen is a Poison/Ground type Pokémon introduced in Generation 1. It is known as the Drill Pokémon.
+Rampardos,Rampardos is a Rock type Pokémon introduced in Generation 4. It is known as the Head Butt Pokémon.
+Crabrawler,Crabrawler is a Fighting type Pokémon introduced in Generation 7. It is known as the Boxing Pokémon.
+Silcoon,Silcoon is a Bug type Pokémon introduced in Generation 3. It is known as the Cocoon Pokémon.
+Buneary,Buneary is a Normal type Pokémon introduced in Generation 4. It is known as the Rabbit Pokémon.
+Voltorb,Voltorb is an Electric type Pokémon introduced in Generation 1. It is known as the Ball Pokémon.
+Gabite,Gabite is a Dragon/Ground type Pokémon introduced in Generation 4. It is known as the Cave Pokémon.
+Electabuzz,Electabuzz is an Electric type Pokémon introduced in Generation 1. It is known as the Electric Pokémon.
+Eelektrik,Eelektrik is an Electric type Pokémon introduced in Generation 5. It is known as the EleFish Pokémon.
+Venomoth,Venomoth is a Bug/Poison type Pokémon introduced in Generation 1. It is known as the Poison Moth Pokémon.
+Pyukumuku,Pyukumuku is a Water type Pokémon introduced in Generation 7. It is known as the Sea Cucumber Pokémon.
+Cufant,Cufant is a Steel type Pokémon introduced in Generation 8. It is known as the Copperderm Pokémon.
+Mandibuzz,Mandibuzz is a Dark/Flying type Pokémon introduced in Generation 5. It is known as the Bone Vulture Pokémon.
+Turtonator,Turtonator is a Fire/Dragon type Pokémon introduced in Generation 7. It is known as the Blast Turtle Pokémon.
+Oranguru,Oranguru is a Normal/Psychic type Pokémon introduced in Generation 7. It is known as the Sage Pokémon.
+Snover,Snover is a Grass/Ice type Pokémon introduced in Generation 4. It is known as the Frost Tree Pokémon.
+Grumpig,Grumpig is a Psychic type Pokémon introduced in Generation 3. It is known as the Manipulate Pokémon.
+Garchomp,Garchomp is a Dragon/Ground type Pokémon introduced in Generation 4. It is known as the Mach Pokémon.
+Garbodor,Garbodor is a Poison type Pokémon introduced in Generation 5. It is known as the Trash Heap Pokémon.
+Whimsicott,Whimsicott is a Grass/Fairy type Pokémon introduced in Generation 5. It is known as the Windveiled Pokémon.
+Hitmontop,Hitmontop is a Fighting type Pokémon introduced in Generation 2. It is known as the Handstand Pokémon.
+Stonjourner,Stonjourner is a Rock type Pokémon introduced in Generation 8. It is known as the Big Rock Pokémon.
+Rattata,Rattata is a Normal type Pokémon introduced in Generation 1. It is known as the Mouse Pokémon.
+Salamence,Salamence is a Dragon/Flying type Pokémon introduced in Generation 3. It is known as the Dragon Pokémon.
+Phanpy,Phanpy is a Ground type Pokémon introduced in Generation 2. It is known as the Long Nose Pokémon.
+Barraskewda,Barraskewda is a Water type Pokémon introduced in Generation 8. It is known as the Skewer Pokémon.
+Kabutops,Kabutops is a Rock/Water type Pokémon introduced in Generation 1. It is known as the Shellfish Pokémon.
+Torterra,Torterra is a Grass/Ground type Pokémon introduced in Generation 4. It is known as the Continent Pokémon.
+Carvanha,Carvanha is a Water/Dark type Pokémon introduced in Generation 3. It is known as the Savage Pokémon.
+Ariados,Ariados is a Bug/Poison type Pokémon introduced in Generation 2. It is known as the Long Leg Pokémon.
+Carkol,Carkol is a Rock/Fire type Pokémon introduced in Generation 8. It is known as the Coal Pokémon.
+Jellicent,Jellicent is a Water/Ghost type Pokémon introduced in Generation 5. It is known as the Floating Pokémon.
+Glastrier,Glastrier is an Ice type Pokémon introduced in Generation 8. It is known as the Wild Horse Pokémon.
+Rufflet,Rufflet is a Normal/Flying type Pokémon introduced in Generation 5. It is known as the Eaglet Pokémon.
+Manectric,Manectric is an Electric type Pokémon introduced in Generation 3. It is known as the Discharge Pokémon.
+Grimmsnarl,Grimmsnarl is a Dark/Fairy type Pokémon introduced in Generation 8. It is known as the Bulk Up Pokémon.
+Aegislash,Aegislash is a Steel/Ghost type Pokémon introduced in Generation 6. It is known as the Royal Sword Pokémon.
+Hippowdon,Hippowdon is a Ground type Pokémon introduced in Generation 4. It is known as the Heavyweight Pokémon.
+Pelipper,Pelipper is a Water/Flying type Pokémon introduced in Generation 3. It is known as the Water Bird Pokémon.
+Archen,Archen is a Rock/Flying type Pokémon introduced in Generation 5. It is known as the First Bird Pokémon.
+Dragapult,Dragapult is a Dragon/Ghost type Pokémon introduced in Generation 8. It is known as the Stealth Pokémon.
+Tynamo,Tynamo is an Electric type Pokémon introduced in Generation 5. It is known as the EleFish Pokémon.
+Ekans,Ekans is a Poison type Pokémon introduced in Generation 1. It is known as the Snake Pokémon.
+Clobbopus,Clobbopus is a Fighting type Pokémon introduced in Generation 8. It is known as the Tantrum Pokémon.
+Forretress,Forretress is a Bug/Steel type Pokémon introduced in Generation 2. It is known as the Bagworm Pokémon.
+Glaceon,Glaceon is an Ice type Pokémon introduced in Generation 4. It is known as the Fresh Snow Pokémon.
+Combee,Combee is a Bug/Flying type Pokémon introduced in Generation 4. It is known as the Tiny Bee Pokémon.
+Groudon,Groudon is a Ground type Pokémon introduced in Generation 3. It is known as the Continent Pokémon.
+Chesnaught,Chesnaught is a Grass/Fighting type Pokémon introduced in Generation 6. It is known as the Spiny Armor Pokémon.
+Floette,Floette is a Fairy type Pokémon introduced in Generation 6. It is known as the Single Bloom Pokémon.
+Marshadow,Marshadow is a Fighting/Ghost type Pokémon introduced in Generation 7. It is known as the Gloomdweller Pokémon.
+Shieldon,Shieldon is a Rock/Steel type Pokémon introduced in Generation 4. It is known as the Shield Pokémon.
+Stoutland,Stoutland is a Normal type Pokémon introduced in Generation 5. It is known as the Big-Hearted Pokémon.
+Chatot,Chatot is a Normal/Flying type Pokémon introduced in Generation 4. It is known as the Music Note Pokémon.
+Vikavolt,Vikavolt is a Bug/Electric type Pokémon introduced in Generation 7. It is known as the Stag Beetle Pokémon.
+Psyduck,Psyduck is a Water type Pokémon introduced in Generation 1. It is known as the Duck Pokémon.
+Monferno,Monferno is a Fire/Fighting type Pokémon introduced in Generation 4. It is known as the Playful Pokémon.
+Cleffa,Cleffa is a Fairy type Pokémon introduced in Generation 2. It is known as the Star Shape Pokémon.
+Vivillon,Vivillon is a Bug/Flying type Pokémon introduced in Generation 6. It is known as the Scale Pokémon.
+Slakoth,Slakoth is a Normal type Pokémon introduced in Generation 3. It is known as the Slacker Pokémon.
+Natu,Natu is a Psychic/Flying type Pokémon introduced in Generation 2. It is known as the Tiny Bird Pokémon.
+Sandaconda,Sandaconda is a Ground type Pokémon introduced in Generation 8. It is known as the Sand Snake Pokémon.
+Hatenna,Hatenna is a Psychic type Pokémon introduced in Generation 8. It is known as the Calm Pokémon.
+Sawsbuck,Sawsbuck is a Normal/Grass type Pokémon introduced in Generation 5. It is known as the Season Pokémon.
+Ledian,Ledian is a Bug/Flying type Pokémon introduced in Generation 2. It is known as the Five Star Pokémon.
+Turtwig,Turtwig is a Grass type Pokémon introduced in Generation 4. It is known as the Tiny Leaf Pokémon.
+Registeel,Registeel is a Steel type Pokémon introduced in Generation 3. It is known as the Iron Pokémon.
+Grimer,Grimer is a Poison type Pokémon introduced in Generation 1. It is known as the Sludge Pokémon.
+Nidoran?,Nidoran? is a Poison type Pokémon introduced in Generation 1. It is known as the Poison Pin Pokémon.
+Mareep,Mareep is an Electric type Pokémon introduced in Generation 2. It is known as the Wool Pokémon.
+Aurorus,Aurorus is a Rock/Ice type Pokémon introduced in Generation 6. It is known as the Tundra Pokémon.
+Gardevoir,Gardevoir is a Psychic/Fairy type Pokémon introduced in Generation 3. It is known as the Embrace Pokémon.
+Dewott,Dewott is a Water type Pokémon introduced in Generation 5. It is known as the Discipline Pokémon.
+Ferroseed,Ferroseed is a Grass/Steel type Pokémon introduced in Generation 5. It is known as the Thorn Seed Pokémon.
+Sandile,Sandile is a Ground/Dark type Pokémon introduced in Generation 5. It is known as the Desert Croc Pokémon.
+Politoed,Politoed is a Water type Pokémon introduced in Generation 2. It is known as the Frog Pokémon.
+Mismagius,Mismagius is a Ghost type Pokémon introduced in Generation 4. It is known as the Magical Pokémon.
+Walrein,Walrein is an Ice/Water type Pokémon introduced in Generation 3. It is known as the Ice Break Pokémon.
+Bisharp,Bisharp is a Dark/Steel type Pokémon introduced in Generation 5. It is known as the Sword Blade Pokémon.
+Staraptor,Staraptor is a Normal/Flying type Pokémon introduced in Generation 4. It is known as the Predator Pokémon.
+Mienshao,Mienshao is a Fighting type Pokémon introduced in Generation 5. It is known as the Martial Arts Pokémon.
+Magmortar,Magmortar is a Fire type Pokémon introduced in Generation 4. It is known as the Blast Pokémon.
+Caterpie,Caterpie is a Bug type Pokémon introduced in Generation 1. It is known as the Worm Pokémon.
+Poliwrath,Poliwrath is a Water/Fighting type Pokémon introduced in Generation 1. It is known as the Tadpole Pokémon.
+Zarude,Zarude is a Dark/Grass type Pokémon introduced in Generation 8. It is known as the Rogue Monkey Pokémon.
+Ambipom,Ambipom is a Normal type Pokémon introduced in Generation 4. It is known as the Long Tail Pokémon.
+Raticate,Raticate is a Normal type Pokémon introduced in Generation 1. It is known as the Mouse Pokémon.
+Skuntank,Skuntank is a Poison/Dark type Pokémon introduced in Generation 4. It is known as the Skunk Pokémon.
+Kyogre,Kyogre is a Water type Pokémon introduced in Generation 3. It is known as the Sea Basin Pokémon.
+Copperajah,Copperajah is a Steel type Pokémon introduced in Generation 8. It is known as the Copperderm Pokémon.
+Vileplume,Vileplume is a Grass/Poison type Pokémon introduced in Generation 1. It is known as the Flower Pokémon.
+Keldeo,Keldeo is a Water/Fighting type Pokémon introduced in Generation 5. It is known as the Colt Pokémon.
+Cubchoo,Cubchoo is an Ice type Pokémon introduced in Generation 5. It is known as the Chill Pokémon.
+Cacturne,Cacturne is a Grass/Dark type Pokémon introduced in Generation 3. It is known as the Scarecrow Pokémon.
+Munna,Munna is a Psychic type Pokémon introduced in Generation 5. It is known as the Dream Eater Pokémon.
+Charjabug,Charjabug is a Bug/Electric type Pokémon introduced in Generation 7. It is known as the Battery Pokémon.
+Herdier,Herdier is a Normal type Pokémon introduced in Generation 5. It is known as the Loyal Dog Pokémon.
+Naganadel,Naganadel is a Poison/Dragon type Pokémon introduced in Generation 7. It is known as the Poison Pin Pokémon.
+Cradily,Cradily is a Rock/Grass type Pokémon introduced in Generation 3. It is known as the Barnacle Pokémon.
+Croagunk,Croagunk is a Poison/Fighting type Pokémon introduced in Generation 4. It is known as the Toxic Mouth Pokémon.
+Dartrix,Dartrix is a Grass/Flying type Pokémon introduced in Generation 7. It is known as the Blade Quill Pokémon.
+Torchic,Torchic is a Fire type Pokémon introduced in Generation 3. It is known as the Chick Pokémon.
+Archeops,Archeops is a Rock/Flying type Pokémon introduced in Generation 5. It is known as the First Bird Pokémon.
+Liepard,Liepard is a Dark type Pokémon introduced in Generation 5. It is known as the Cruel Pokémon.
+Spinda,Spinda is a Normal type Pokémon introduced in Generation 3. It is known as the Spot Panda Pokémon.
+Tyrunt,Tyrunt is a Rock/Dragon type Pokémon introduced in Generation 6. It is known as the Royal Heir Pokémon.
+Xatu,Xatu is a Psychic/Flying type Pokémon introduced in Generation 2. It is known as the Mystic Pokémon.
+Kingler,Kingler is a Water type Pokémon introduced in Generation 1. It is known as the Pincer Pokémon.
+Charizard,Charizard is a Fire/Flying type Pokémon introduced in Generation 1. It is known as the Flame Pokémon.
+Dugtrio,Dugtrio is a Ground type Pokémon introduced in Generation 1. It is known as the Mole Pokémon.
+Pincurchin,Pincurchin is an Electric type Pokémon introduced in Generation 8. It is known as the Sea Urchin Pokémon.
+Sobble,Sobble is a Water type Pokémon introduced in Generation 8. It is known as the Water Lizard Pokémon.
+Paras,Paras is a Bug/Grass type Pokémon introduced in Generation 1. It is known as the Mushroom Pokémon.
+Coalossal,Coalossal is a Rock/Fire type Pokémon introduced in Generation 8. It is known as the Coal Pokémon.
+Noivern,Noivern is a Flying/Dragon type Pokémon introduced in Generation 6. It is known as the Sound Wave Pokémon.
+Jigglypuff,Jigglypuff is a Normal/Fairy type Pokémon introduced in Generation 1. It is known as the Balloon Pokémon.
+Gible,Gible is a Dragon/Ground type Pokémon introduced in Generation 4. It is known as the Land Shark Pokémon.
+Skarmory,Skarmory is a Steel/Flying type Pokémon introduced in Generation 2. It is known as the Armor Bird Pokémon.
+Jynx,Jynx is an Ice/Psychic type Pokémon introduced in Generation 1. It is known as the Human Shape Pokémon.
+Miltank,Miltank is a Normal type Pokémon introduced in Generation 2. It is known as the Milk Cow Pokémon.
+Glameow,Glameow is a Normal type Pokémon introduced in Generation 4. It is known as the Catty Pokémon.
+Tapu Fini,Tapu Fini is a Water/Fairy type Pokémon introduced in Generation 7. It is known as the Land Spirit Pokémon.
+Swellow,Swellow is a Normal/Flying type Pokémon introduced in Generation 3. It is known as the Swallow Pokémon.
+Relicanth,Relicanth is a Water/Rock type Pokémon introduced in Generation 3. It is known as the Longevity Pokémon.
+Flareon,Flareon is a Fire type Pokémon introduced in Generation 1. It is known as the Flame Pokémon.
+Leafeon,Leafeon is a Grass type Pokémon introduced in Generation 4. It is known as the Verdant Pokémon.
+Cofagrigus,Cofagrigus is a Ghost type Pokémon introduced in Generation 5. It is known as the Coffin Pokémon.
+Incineroar,Incineroar is a Fire/Dark type Pokémon introduced in Generation 7. It is known as the Heel Pokémon.
+Cacnea,Cacnea is a Grass type Pokémon introduced in Generation 3. It is known as the Cactus Pokémon.
+Weedle,Weedle is a Bug/Poison type Pokémon introduced in Generation 1. It is known as the Hairy Bug Pokémon.
+Cobalion,Cobalion is a Steel/Fighting type Pokémon introduced in Generation 5. It is known as the Iron Will Pokémon.
+Skiddo,Skiddo is a Grass type Pokémon introduced in Generation 6. It is known as the Mount Pokémon.
+Entei,Entei is a Fire type Pokémon introduced in Generation 2. It is known as the Volcano Pokémon.
+Snubbull,Snubbull is a Fairy type Pokémon introduced in Generation 2. It is known as the Fairy Pokémon.
+Dhelmise,Dhelmise is a Ghost/Grass type Pokémon introduced in Generation 7. It is known as the Sea Creeper Pokémon.
+Luxray,Luxray is an Electric type Pokémon introduced in Generation 4. It is known as the Gleam Eyes Pokémon.
+Sewaddle,Sewaddle is a Bug/Grass type Pokémon introduced in Generation 5. It is known as the Sewing Pokémon.
+Sliggoo,Sliggoo is a Dragon type Pokémon introduced in Generation 6. It is known as the Soft Tissue Pokémon.
+Pidgeotto,Pidgeotto is a Normal/Flying type Pokémon introduced in Generation 1. It is known as the Bird Pokémon.
+Klink,Klink is a Steel type Pokémon introduced in Generation 5. It is known as the Gear Pokémon.
+Mr. Rime,Mr. Rime is an Ice/Psychic type Pokémon introduced in Generation 8. It is known as the Comedian Pokémon.
+Riolu,Riolu is a Fighting type Pokémon introduced in Generation 4. It is known as the Emanation Pokémon.
+Aipom,Aipom is a Normal type Pokémon introduced in Generation 2. It is known as the Long Tail Pokémon.
+Alomomola,Alomomola is a Water type Pokémon introduced in Generation 5. It is known as the Caring Pokémon.
+Linoone,Linoone is a Normal type Pokémon introduced in Generation 3. It is known as the Rushing Pokémon.
+Zangoose,Zangoose is a Normal type Pokémon introduced in Generation 3. It is known as the Cat Ferret Pokémon.
+Pinsir,Pinsir is a Bug type Pokémon introduced in Generation 1. It is known as the Stag Beetle Pokémon.
+Gastly,Gastly is a Ghost/Poison type Pokémon introduced in Generation 1. It is known as the Gas Pokémon.
+Calyrex,Calyrex is a Psychic/Grass type Pokémon introduced in Generation 8. It is known as the King Pokémon.
+Vigoroth,Vigoroth is a Normal type Pokémon introduced in Generation 3. It is known as the Wild Monkey Pokémon.
+Ledyba,Ledyba is a Bug/Flying type Pokémon introduced in Generation 2. It is known as the Five Star Pokémon.
+Blitzle,Blitzle is an Electric type Pokémon introduced in Generation 5. It is known as the Electrified Pokémon.
+Shedinja,Shedinja is a Bug/Ghost type Pokémon introduced in Generation 3. It is known as the Shed Pokémon.
+Umbreon,Umbreon is a Dark type Pokémon introduced in Generation 2. It is known as the Moonlight Pokémon.
+Maractus,Maractus is a Grass type Pokémon introduced in Generation 5. It is known as the Cactus Pokémon.
+Bruxish,Bruxish is a Water/Psychic type Pokémon introduced in Generation 7. It is known as the Gnash Teeth Pokémon.
+Swampert,Swampert is a Water/Ground type Pokémon introduced in Generation 3. It is known as the Mud Fish Pokémon.
+Cresselia,Cresselia is a Psychic type Pokémon introduced in Generation 4. It is known as the Lunar Pokémon.
+Axew,Axew is a Dragon type Pokémon introduced in Generation 5. It is known as the Tusk Pokémon.
+Tapu Bulu,Tapu Bulu is a Grass/Fairy type Pokémon introduced in Generation 7. It is known as the Land Spirit Pokémon.
+Flygon,Flygon is a Ground/Dragon type Pokémon introduced in Generation 3. It is known as the Mystic Pokémon.
+Tirtouga,Tirtouga is a Water/Rock type Pokémon introduced in Generation 5. It is known as the Prototurtle Pokémon.
+Whiscash,Whiscash is a Water/Ground type Pokémon introduced in Generation 3. It is known as the Whiskers Pokémon.
+Simipour,Simipour is a Water type Pokémon introduced in Generation 5. It is known as the Geyser Pokémon.
+Golem,Golem is a Rock/Ground type Pokémon introduced in Generation 1. It is known as the Megaton Pokémon.
+Simisear,Simisear is a Fire type Pokémon introduced in Generation 5. It is known as the Ember Pokémon.
+Mienfoo,Mienfoo is a Fighting type Pokémon introduced in Generation 5. It is known as the Martial Arts Pokémon.
+Mareanie,Mareanie is a Poison/Water type Pokémon introduced in Generation 7. It is known as the Brutal Star Pokémon.
+Spheal,Spheal is an Ice/Water type Pokémon introduced in Generation 3. It is known as the Clap Pokémon.
+Stakataka,Stakataka is a Rock/Steel type Pokémon introduced in Generation 7. It is known as the Rampart Pokémon.
+Nidorino,Nidorino is a Poison type Pokémon introduced in Generation 1. It is known as the Poison Pin Pokémon.
+Omastar,Omastar is a Rock/Water type Pokémon introduced in Generation 1. It is known as the Spiral Pokémon.
+Corviknight,Corviknight is a Flying/Steel type Pokémon introduced in Generation 8. It is known as the Raven Pokémon.
+Zebstrika,Zebstrika is an Electric type Pokémon introduced in Generation 5. It is known as the Thunderbolt Pokémon.
+Dunsparce,Dunsparce is a Normal type Pokémon introduced in Generation 2. It is known as the Land Snake Pokémon.
+Zacian,Zacian is a Fairy/Steel type Pokémon introduced in Generation 8. It is known as the Warrior Pokémon.
+Swirlix,Swirlix is a Fairy type Pokémon introduced in Generation 6. It is known as the Cotton Candy Pokémon.
+Remoraid,Remoraid is a Water type Pokémon introduced in Generation 2. It is known as the Jet Pokémon.
+Dewpider,Dewpider is a Water/Bug type Pokémon introduced in Generation 7. It is known as the Water Bubble Pokémon.
+Graveler,Graveler is a Rock/Ground type Pokémon introduced in Generation 1. It is known as the Rock Pokémon.
+Cinderace,Cinderace is a Fire type Pokémon introduced in Generation 8. It is known as the Striker Pokémon.
+Grookey,Grookey is a Grass type Pokémon introduced in Generation 8. It is known as the Chimp Pokémon.
+Wormadam,Wormadam is a Bug/Grass type Pokémon introduced in Generation 4. It is known as the Bagworm Pokémon.
+Emolga,Emolga is an Electric/Flying type Pokémon introduced in Generation 5. It is known as the Sky Squirrel Pokémon.
+Crawdaunt,Crawdaunt is a Water/Dark type Pokémon introduced in Generation 3. It is known as the Rogue Pokémon.
+Clamperl,Clamperl is a Water type Pokémon introduced in Generation 3. It is known as the Bivalve Pokémon.
+Sirfetch'd,Sirfetch'd is a Fighting type Pokémon introduced in Generation 8. It is known as the Wild Duck Pokémon.
+Shiftry,Shiftry is a Grass/Dark type Pokémon introduced in Generation 3. It is known as the Wicked Pokémon.
+Cascoon,Cascoon is a Bug type Pokémon introduced in Generation 3. It is known as the Cocoon Pokémon.
+Treecko,Treecko is a Grass type Pokémon introduced in Generation 3. It is known as the Wood Gecko Pokémon.
+Obstagoon,Obstagoon is a Dark/Normal type Pokémon introduced in Generation 8. It is known as the Blocking Pokémon.
+Fennekin,Fennekin is a Fire type Pokémon introduced in Generation 6. It is known as the Fox Pokémon.
+Snom,Snom is an Ice/Bug type Pokémon introduced in Generation 8. It is known as the Worm Pokémon.
+Klang,Klang is a Steel type Pokémon introduced in Generation 5. It is known as the Gear Pokémon.
+Dewgong,Dewgong is a Water/Ice type Pokémon introduced in Generation 1. It is known as the Sea Lion Pokémon.
+Cinccino,Cinccino is a Normal type Pokémon introduced in Generation 5. It is known as the Scarf Pokémon.
+Volbeat,Volbeat is a Bug type Pokémon introduced in Generation 3. It is known as the Firefly Pokémon.
+Fletchling,Fletchling is a Normal/Flying type Pokémon introduced in Generation 6. It is known as the Tiny Robin Pokémon.
+Volcanion,Volcanion is a Fire/Water type Pokémon introduced in Generation 6. It is known as the Steam Pokémon.
+Ferrothorn,Ferrothorn is a Grass/Steel type Pokémon introduced in Generation 5. It is known as the Thorn Pod Pokémon.
+Rookidee,Rookidee is a Flying type Pokémon introduced in Generation 8. It is known as the Tiny Bird Pokémon.
+Yanma,Yanma is a Bug/Flying type Pokémon introduced in Generation 2. It is known as the Clear Wing Pokémon.
+Arctovish,Arctovish is a Water/Ice type Pokémon introduced in Generation 8. It is known as the Fossil Pokémon.
+Araquanid,Araquanid is a Water/Bug type Pokémon introduced in Generation 7. It is known as the Water Bubble Pokémon.
+Perrserker,Perrserker is a Steel type Pokémon introduced in Generation 8. It is known as the Viking Pokémon.
+Slowking,Slowking is a Water/Psychic type Pokémon introduced in Generation 2. It is known as the Royal Pokémon.
+Deino,Deino is a Dark/Dragon type Pokémon introduced in Generation 5. It is known as the Irate Pokémon.
+Arcanine,Arcanine is a Fire type Pokémon introduced in Generation 1. It is known as the Legendary Pokémon.
+Toucannon,Toucannon is a Normal/Flying type Pokémon introduced in Generation 7. It is known as the Cannon Pokémon.
+Krokorok,Krokorok is a Ground/Dark type Pokémon introduced in Generation 5. It is known as the Desert Croc Pokémon.
+Sableye,Sableye is a Dark/Ghost type Pokémon introduced in Generation 3. It is known as the Darkness Pokémon.
+Corsola,Corsola is a Water/Rock type Pokémon introduced in Generation 2. It is known as the Coral Pokémon.
+Dusclops,Dusclops is a Ghost type Pokémon introduced in Generation 3. It is known as the Beckon Pokémon.
+Roserade,Roserade is a Grass/Poison type Pokémon introduced in Generation 4. It is known as the Bouquet Pokémon.
+Litten,Litten is a Fire type Pokémon introduced in Generation 7. It is known as the Fire Cat Pokémon.
+Blipbug,Blipbug is a Bug type Pokémon introduced in Generation 8. It is known as the Larva Pokémon.
+Dodrio,Dodrio is a Normal/Flying type Pokémon introduced in Generation 1. It is known as the Triple Bird Pokémon.
+Klinklang,Klinklang is a Steel type Pokémon introduced in Generation 5. It is known as the Gear Pokémon.
+Skrelp,Skrelp is a Poison/Water type Pokémon introduced in Generation 6. It is known as the Mock Kelp Pokémon.
+Swoobat,Swoobat is a Psychic/Flying type Pokémon introduced in Generation 5. It is known as the Courting Pokémon.
+Helioptile,Helioptile is an Electric/Normal type Pokémon introduced in Generation 6. It is known as the Generator Pokémon.
+Victini,Victini is a Psychic/Fire type Pokémon introduced in Generation 5. It is known as the Victory Pokémon.
+Prinplup,Prinplup is a Water type Pokémon introduced in Generation 4. It is known as the Penguin Pokémon.
+Bounsweet,Bounsweet is a Grass type Pokémon introduced in Generation 7. It is known as the Fruit Pokémon.
+Dratini,Dratini is a Dragon type Pokémon introduced in Generation 1. It is known as the Dragon Pokémon.
+Runerigus,Runerigus is a Ground/Ghost type Pokémon introduced in Generation 8. It is known as the Grudge Pokémon.
+Servine,Servine is a Grass type Pokémon introduced in Generation 5. It is known as the Grass Snake Pokémon.
+Vespiquen,Vespiquen is a Bug/Flying type Pokémon introduced in Generation 4. It is known as the Beehive Pokémon.
+Mamoswine,Mamoswine is an Ice/Ground type Pokémon introduced in Generation 4. It is known as the Twin Tusk Pokémon.
+Nidoran?,Nidoran? is a Poison type Pokémon introduced in Generation 1. It is known as the Poison Pin Pokémon.
+Wooper,Wooper is a Water/Ground type Pokémon introduced in Generation 2. It is known as the Water Fish Pokémon.
+Escavalier,Escavalier is a Bug/Steel type Pokémon introduced in Generation 5. It is known as the Cavalry Pokémon.
+Sealeo,Sealeo is an Ice/Water type Pokémon introduced in Generation 3. It is known as the Ball Roll Pokémon.
+Marowak,Marowak is a Ground type Pokémon introduced in Generation 1. It is known as the Bone Keeper Pokémon.
+Electrike,Electrike is an Electric type Pokémon introduced in Generation 3. It is known as the Lightning Pokémon.
+Shuppet,Shuppet is a Ghost type Pokémon introduced in Generation 3. It is known as the Puppet Pokémon.
+Galvantula,Galvantula is a Bug/Electric type Pokémon introduced in Generation 5. It is known as the EleSpider Pokémon.
+Makuhita,Makuhita is a Fighting type Pokémon introduced in Generation 3. It is known as the Guts Pokémon.
+Delcatty,Delcatty is a Normal type Pokémon introduced in Generation 3. It is known as the Prim Pokémon.
+Castform,Castform is a Normal type Pokémon introduced in Generation 3. It is known as the Weather Pokémon.
+Petilil,Petilil is a Grass type Pokémon introduced in Generation 5. It is known as the Bulb Pokémon.
+Drampa,Drampa is a Normal/Dragon type Pokémon introduced in Generation 7. It is known as the Placid Pokémon.
+Grotle,Grotle is a Grass type Pokémon introduced in Generation 4. It is known as the Grove Pokémon.
+Drifloon,Drifloon is a Ghost/Flying type Pokémon introduced in Generation 4. It is known as the Balloon Pokémon.
+Lycanroc,Lycanroc is a Rock type Pokémon introduced in Generation 7. It is known as the Wolf Pokémon.
+Stunfisk,Stunfisk is a Ground/Electric type Pokémon introduced in Generation 5. It is known as the Trap Pokémon.
+Sandslash,Sandslash is a Ground type Pokémon introduced in Generation 1. It is known as the Mouse Pokémon.
+Sylveon,Sylveon is a Fairy type Pokémon introduced in Generation 6. It is known as the Intertwining Pokémon.
+Bronzong,Bronzong is a Steel/Psychic type Pokémon introduced in Generation 4. It is known as the Bronze Bell Pokémon.
+Hippopotas,Hippopotas is a Ground type Pokémon introduced in Generation 4. It is known as the Hippo Pokémon.
+Watchog,Watchog is a Normal type Pokémon introduced in Generation 5. It is known as the Lookout Pokémon.
+Bonsly,Bonsly is a Rock type Pokémon introduced in Generation 4. It is known as the Bonsai Pokémon.
+Combusken,Combusken is a Fire/Fighting type Pokémon introduced in Generation 3. It is known as the Young Fowl Pokémon.
+Centiskorch,Centiskorch is a Fire/Bug type Pokémon introduced in Generation 8. It is known as the Radiator Pokémon.
+Deoxys,Deoxys is a Psychic type Pokémon introduced in Generation 3. It is known as the DNA Pokémon.
+Golduck,Golduck is a Water type Pokémon introduced in Generation 1. It is known as the Duck Pokémon.
+Frogadier,Frogadier is a Water type Pokémon introduced in Generation 6. It is known as the Bubble Frog Pokémon.
+Tapu Lele,Tapu Lele is a Psychic/Fairy type Pokémon introduced in Generation 7. It is known as the Land Spirit Pokémon.
+Cryogonal,Cryogonal is an Ice type Pokémon introduced in Generation 5. It is known as the Crystallizing Pokémon.
+Lairon,Lairon is a Steel/Rock type Pokémon introduced in Generation 3. It is known as the Iron Armor Pokémon.
+Snorunt,Snorunt is an Ice type Pokémon introduced in Generation 3. It is known as the Snow Hat Pokémon.
+Kricketot,Kricketot is a Bug type Pokémon introduced in Generation 4. It is known as the Cricket Pokémon.
+Haunter,Haunter is a Ghost/Poison type Pokémon introduced in Generation 1. It is known as the Gas Pokémon.
+Kricketune,Kricketune is a Bug type Pokémon introduced in Generation 4. It is known as the Cricket Pokémon.
+Minccino,Minccino is a Normal type Pokémon introduced in Generation 5. It is known as the Chinchilla Pokémon.
+Nuzleaf,Nuzleaf is a Grass/Dark type Pokémon introduced in Generation 3. It is known as the Wily Pokémon.
+Pansear,Pansear is a Fire type Pokémon introduced in Generation 5. It is known as the High Temp Pokémon.
+Mimikyu,Mimikyu is a Ghost/Fairy type Pokémon introduced in Generation 7. It is known as the Disguise Pokémon.
+Lanturn,Lanturn is a Water/Electric type Pokémon introduced in Generation 2. It is known as the Light Pokémon.
+Magmar,Magmar is a Fire type Pokémon introduced in Generation 1. It is known as the Spitfire Pokémon.
+Seismitoad,Seismitoad is a Water/Ground type Pokémon introduced in Generation 5. It is known as the Vibration Pokémon.
+Frillish,Frillish is a Water/Ghost type Pokémon introduced in Generation 5. It is known as the Floating Pokémon.
+Luvdisc,Luvdisc is a Water type Pokémon introduced in Generation 3. It is known as the Rendezvous Pokémon.
+Hakamo-o,Hakamo-o is a Dragon/Fighting type Pokémon introduced in Generation 7. It is known as the Scaly Pokémon.
+Heatran,Heatran is a Fire/Steel type Pokémon introduced in Generation 4. It is known as the Lava Dome Pokémon.
+Tyranitar,Tyranitar is a Rock/Dark type Pokémon introduced in Generation 2. It is known as the Armor Pokémon.
+Bronzor,Bronzor is a Steel/Psychic type Pokémon introduced in Generation 4. It is known as the Bronze Pokémon.
+Chikorita,Chikorita is a Grass type Pokémon introduced in Generation 2. It is known as the Leaf Pokémon.
+Tapu Koko,Tapu Koko is an Electric/Fairy type Pokémon introduced in Generation 7. It is known as the Land Spirit Pokémon.
+Sharpedo,Sharpedo is a Water/Dark type Pokémon introduced in Generation 3. It is known as the Brutal Pokémon.
+Rockruff,Rockruff is a Rock type Pokémon introduced in Generation 7. It is known as the Puppy Pokémon.
+Spiritomb,Spiritomb is a Ghost/Dark type Pokémon introduced in Generation 4. It is known as the Forbidden Pokémon.
+Stunky,Stunky is a Poison/Dark type Pokémon introduced in Generation 4. It is known as the Skunk Pokémon.
+Tranquill,Tranquill is a Normal/Flying type Pokémon introduced in Generation 5. It is known as the Wild Pigeon Pokémon.
+Hatterene,Hatterene is a Psychic/Fairy type Pokémon introduced in Generation 8. It is known as the Silent Pokémon.
+Gossifleur,Gossifleur is a Grass type Pokémon introduced in Generation 8. It is known as the Flowering Pokémon.
+Baltoy,Baltoy is a Ground/Psychic type Pokémon introduced in Generation 3. It is known as the Clay Doll Pokémon.
+Xerneas,Xerneas is a Fairy type Pokémon introduced in Generation 6. It is known as the Life Pokémon.
+Unfezant,Unfezant is a Normal/Flying type Pokémon introduced in Generation 5. It is known as the Proud Pokémon.
+Pikipek,Pikipek is a Normal/Flying type Pokémon introduced in Generation 7. It is known as the Woodpecker Pokémon.
+Bastiodon,Bastiodon is a Rock/Steel type Pokémon introduced in Generation 4. It is known as the Shield Pokémon.
+Greedent,Greedent is a Normal type Pokémon introduced in Generation 8. It is known as the Greedy Pokémon.
+Pangoro,Pangoro is a Fighting/Dark type Pokémon introduced in Generation 6. It is known as the Daunting Pokémon.
+Exeggutor,Exeggutor is a Grass/Psychic type Pokémon introduced in Generation 1. It is known as the Coconut Pokémon.
+Qwilfish,Qwilfish is a Water/Poison type Pokémon introduced in Generation 2. It is known as the Balloon Pokémon.
+Igglybuff,Igglybuff is a Normal/Fairy type Pokémon introduced in Generation 2. It is known as the Balloon Pokémon.
+Drednaw,Drednaw is a Water/Rock type Pokémon introduced in Generation 8. It is known as the Bite Pokémon.
+Duskull,Duskull is a Ghost type Pokémon introduced in Generation 3. It is known as the Requiem Pokémon.
+Wimpod,Wimpod is a Bug/Water type Pokémon introduced in Generation 7. It is known as the Turn Tail Pokémon.
+Gumshoos,Gumshoos is a Normal type Pokémon introduced in Generation 7. It is known as the Stakeout Pokémon.
+Popplio,Popplio is a Water type Pokémon introduced in Generation 7. It is known as the Sea Lion Pokémon.
+Dedenne,Dedenne is an Electric/Fairy type Pokémon introduced in Generation 6. It is known as the Antenna Pokémon.
+Clawitzer,Clawitzer is a Water type Pokémon introduced in Generation 6. It is known as the Howitzer Pokémon.
+Lickilicky,Lickilicky is a Normal type Pokémon introduced in Generation 4. It is known as the Licking Pokémon.
+Thundurus,Thundurus is an Electric/Flying type Pokémon introduced in Generation 5. It is known as the Bolt Strike Pokémon.
+Burmy,Burmy is a Bug type Pokémon introduced in Generation 4. It is known as the Bagworm Pokémon.
+Seel,Seel is a Water type Pokémon introduced in Generation 1. It is known as the Sea Lion Pokémon.
+Tympole,Tympole is a Water type Pokémon introduced in Generation 5. It is known as the Tadpole Pokémon.
+Furfrou,Furfrou is a Normal type Pokémon introduced in Generation 6. It is known as the Poodle Pokémon.
+Victreebel,Victreebel is a Grass/Poison type Pokémon introduced in Generation 1. It is known as the Flycatcher Pokémon.
+Omanyte,Omanyte is a Rock/Water type Pokémon introduced in Generation 1. It is known as the Spiral Pokémon.
+Ho-oh,Ho-oh is a Fire/Flying type Pokémon introduced in Generation 2. It is known as the Rainbow Pokémon.
+Gastrodon,Gastrodon is a Water/Ground type Pokémon introduced in Generation 4. It is known as the Sea Slug Pokémon.
+Gulpin,Gulpin is a Poison type Pokémon introduced in Generation 3. It is known as the Stomach Pokémon.
+Excadrill,Excadrill is a Ground/Steel type Pokémon introduced in Generation 5. It is known as the Subterrene Pokémon.
+Litleo,Litleo is a Fire/Normal type Pokémon introduced in Generation 6. It is known as the Lion Cub Pokémon.
+Deerling,Deerling is a Normal/Grass type Pokémon introduced in Generation 5. It is known as the Season Pokémon.
+Yamper,Yamper is an Electric type Pokémon introduced in Generation 8. It is known as the Puppy Pokémon.
+Regidrago,Regidrago is a Dragon type Pokémon introduced in Generation 8. It is known as the Dragon Orb Pokémon.
+Goodra,Goodra is a Dragon type Pokémon introduced in Generation 6. It is known as the Dragon Pokémon.
+Urshifu,Urshifu is a Fighting/Dark type Pokémon introduced in Generation 8. It is known as the Wushu Pokémon.
+Eternatus,Eternatus is a Poison/Dragon type Pokémon introduced in Generation 8. It is known as the Gigantic Pokémon.
+Wobbuffet,Wobbuffet is a Psychic type Pokémon introduced in Generation 2. It is known as the Patient Pokémon.
+Tsareena,Tsareena is a Grass type Pokémon introduced in Generation 7. It is known as the Fruit Pokémon.
+Reuniclus,Reuniclus is a Psychic type Pokémon introduced in Generation 5. It is known as the Multiplying Pokémon.
+Feraligatr,Feraligatr is a Water type Pokémon introduced in Generation 2. It is known as the Big Jaw Pokémon.
+Eldegoss,Eldegoss is a Grass type Pokémon introduced in Generation 8. It is known as the Cotton Bloom Pokémon.
+Shellder,Shellder is a Water type Pokémon introduced in Generation 1. It is known as the Bivalve Pokémon.
+Smeargle,Smeargle is a Normal type Pokémon introduced in Generation 2. It is known as the Painter Pokémon.
+Venonat,Venonat is a Bug/Poison type Pokémon introduced in Generation 1. It is known as the Insect Pokémon.
+Weezing,Weezing is a Poison type Pokémon introduced in Generation 1. It is known as the Poison Gas Pokémon.
+Sunflora,Sunflora is a Grass type Pokémon introduced in Generation 2. It is known as the Sun Pokémon.
+Lugia,Lugia is a Psychic/Flying type Pokémon introduced in Generation 2. It is known as the Diving Pokémon.
+Flapple,Flapple is a Grass/Dragon type Pokémon introduced in Generation 8. It is known as the Apple Wing Pokémon.
+Eiscue,Eiscue is an Ice type Pokémon introduced in Generation 8. It is known as the Penguin Pokémon.
+Ursaring,Ursaring is a Normal type Pokémon introduced in Generation 2. It is known as the Hibernator Pokémon.
+Salandit,Salandit is a Poison/Fire type Pokémon introduced in Generation 7. It is known as the Toxic Lizard Pokémon.
+Rillaboom,Rillaboom is a Grass type Pokémon introduced in Generation 8. It is known as the Drummer Pokémon.
+Fomantis,Fomantis is a Grass type Pokémon introduced in Generation 7. It is known as the Sickle Grass Pokémon.
+Nosepass,Nosepass is a Rock type Pokémon introduced in Generation 3. It is known as the Compass Pokémon.
+Jolteon,Jolteon is an Electric type Pokémon introduced in Generation 1. It is known as the Lightning Pokémon.
+Froslass,Froslass is an Ice/Ghost type Pokémon introduced in Generation 4. It is known as the Snow Land Pokémon.
+Landorus,Landorus is a Ground/Flying type Pokémon introduced in Generation 5. It is known as the Abundance Pokémon.
+Heracross,Heracross is a Bug/Fighting type Pokémon introduced in Generation 2. It is known as the Single Horn Pokémon.
+Cursola,Cursola is a Ghost type Pokémon introduced in Generation 8. It is known as the Coral Pokémon.
+Charmander,Charmander is a Fire type Pokémon introduced in Generation 1. It is known as the Lizard Pokémon.
+Hawlucha,Hawlucha is a Fighting/Flying type Pokémon introduced in Generation 6. It is known as the Wrestling Pokémon.
+Honchkrow,Honchkrow is a Dark/Flying type Pokémon introduced in Generation 4. It is known as the Big Boss Pokémon.
+Sizzlipede,Sizzlipede is a Fire/Bug type Pokémon introduced in Generation 8. It is known as the Radiator Pokémon.
+Slowbro,Slowbro is a Water/Psychic type Pokémon introduced in Generation 1. It is known as the Hermit Crab Pokémon.
+Buzzwole,Buzzwole is a Bug/Fighting type Pokémon introduced in Generation 7. It is known as the Swollen Pokémon.
+Skiploom,Skiploom is a Grass/Flying type Pokémon introduced in Generation 2. It is known as the Cottonweed Pokémon.
+Lilligant,Lilligant is a Grass type Pokémon introduced in Generation 5. It is known as the Flowering Pokémon.
+Guzzlord,Guzzlord is a Dark/Dragon type Pokémon introduced in Generation 7. It is known as the Junkivore Pokémon.
+Sawk,Sawk is a Fighting type Pokémon introduced in Generation 5. It is known as the Karate Pokémon.
+Tornadus,Tornadus is a Flying type Pokémon introduced in Generation 5. It is known as the Cyclone Pokémon.
+Basculin,Basculin is a Water type Pokémon introduced in Generation 5. It is known as the Hostile Pokémon.
+Ponyta,Ponyta is a Fire type Pokémon introduced in Generation 1. It is known as the Fire Horse Pokémon.
+Magikarp,Magikarp is a Water type Pokémon introduced in Generation 1. It is known as the Fish Pokémon.
+Hypno,Hypno is a Psychic type Pokémon introduced in Generation 1. It is known as the Hypnosis Pokémon.
+Crobat,Crobat is a Poison/Flying type Pokémon introduced in Generation 2. It is known as the Bat Pokémon.
+Arbok,Arbok is a Poison type Pokémon introduced in Generation 1. It is known as the Cobra Pokémon.
+Espeon,Espeon is a Psychic type Pokémon introduced in Generation 2. It is known as the Sun Pokémon.
+Darmanitan,Darmanitan is a Fire type Pokémon introduced in Generation 5. It is known as the Blazing Pokémon.
+Uxie,Uxie is a Psychic type Pokémon introduced in Generation 4. It is known as the Knowledge Pokémon.
+Drifblim,Drifblim is a Ghost/Flying type Pokémon introduced in Generation 4. It is known as the Blimp Pokémon.
+Regieleki,Regieleki is an Electric type Pokémon introduced in Generation 8. It is known as the Electron Pokémon.
+Solgaleo,Solgaleo is a Psychic/Steel type Pokémon introduced in Generation 7. It is known as the Sunne Pokémon.
+Pikachu,Pikachu is an Electric type Pokémon introduced in Generation 1. It is known as the Mouse Pokémon.
+Morgrem,Morgrem is a Dark/Fairy type Pokémon introduced in Generation 8. It is known as the Devious Pokémon.
+Terrakion,Terrakion is a Rock/Fighting type Pokémon introduced in Generation 5. It is known as the Cavern Pokémon.
+Blissey,Blissey is a Normal type Pokémon introduced in Generation 2. It is known as the Happiness Pokémon.
+Raikou,Raikou is an Electric type Pokémon introduced in Generation 2. It is known as the Thunder Pokémon.
+Fletchinder,Fletchinder is a Fire/Flying type Pokémon introduced in Generation 6. It is known as the Ember Pokémon.
+Audino,Audino is a Normal type Pokémon introduced in Generation 5. It is known as the Hearing Pokémon.
+Necrozma,Necrozma is a Psychic type Pokémon introduced in Generation 7. It is known as the Prism Pokémon.
+Gurdurr,Gurdurr is a Fighting type Pokémon introduced in Generation 5. It is known as the Muscular Pokémon.
+Togekiss,Togekiss is a Fairy/Flying type Pokémon introduced in Generation 4. It is known as the Jubilee Pokémon.
+Heatmor,Heatmor is a Fire type Pokémon introduced in Generation 5. It is known as the Anteater Pokémon.
+Staryu,Staryu is a Water type Pokémon introduced in Generation 1. It is known as the Star Shape Pokémon.
+Avalugg,Avalugg is an Ice type Pokémon introduced in Generation 6. It is known as the Iceberg Pokémon.
+Kadabra,Kadabra is a Psychic type Pokémon introduced in Generation 1. It is known as the Psi Pokémon.
+Frosmoth,Frosmoth is an Ice/Bug type Pokémon introduced in Generation 8. It is known as the Frost Moth Pokémon.
+Gligar,Gligar is a Ground/Flying type Pokémon introduced in Generation 2. It is known as the FlyScorpion Pokémon.
+Wailmer,Wailmer is a Water type Pokémon introduced in Generation 3. It is known as the Ball Whale Pokémon.
+Amaura,Amaura is a Rock/Ice type Pokémon introduced in Generation 6. It is known as the Tundra Pokémon.
+Mudbray,Mudbray is a Ground type Pokémon introduced in Generation 7. It is known as the Donkey Pokémon.
+Stantler,Stantler is a Normal type Pokémon introduced in Generation 2. It is known as the Big Horn Pokémon.
+Arctozolt,Arctozolt is an Electric/Ice type Pokémon introduced in Generation 8. It is known as the Fossil Pokémon.
+Doublade,Doublade is a Steel/Ghost type Pokémon introduced in Generation 6. It is known as the Sword Pokémon.
+Pancham,Pancham is a Fighting type Pokémon introduced in Generation 6. It is known as the Playful Pokémon.
+Throh,Throh is a Fighting type Pokémon introduced in Generation 5. It is known as the Judo Pokémon.
+Shelgon,Shelgon is a Dragon type Pokémon introduced in Generation 3. It is known as the Endurance Pokémon.
+Piplup,Piplup is a Water type Pokémon introduced in Generation 4. It is known as the Penguin Pokémon.
+Clauncher,Clauncher is a Water type Pokémon introduced in Generation 6. It is known as the Water Gun Pokémon.
+Dragalge,Dragalge is a Poison/Dragon type Pokémon introduced in Generation 6. It is known as the Mock Kelp Pokémon.
+Azumarill,Azumarill is a Water/Fairy type Pokémon introduced in Generation 2. It is known as the Aqua Rabbit Pokémon.
+Bunnelby,Bunnelby is a Normal type Pokémon introduced in Generation 6. It is known as the Digging Pokémon.
+Metang,Metang is a Steel/Psychic type Pokémon introduced in Generation 3. It is known as the Iron Claw Pokémon.
+Persian,Persian is a Normal type Pokémon introduced in Generation 1. It is known as the Classy Cat Pokémon.
+Onix,Onix is a Rock/Ground type Pokémon introduced in Generation 1. It is known as the Rock Snake Pokémon.
+Toxtricity,Toxtricity is an Electric/Poison type Pokémon introduced in Generation 8. It is known as the Punk Pokémon.
+Crabominable,Crabominable is a Fighting/Ice type Pokémon introduced in Generation 7. It is known as the Woolly Crab Pokémon.
+Seedot,Seedot is a Grass type Pokémon introduced in Generation 3. It is known as the Acorn Pokémon.
+Polteageist,Polteageist is a Ghost type Pokémon introduced in Generation 8. It is known as the Black Tea Pokémon.
+Altaria,Altaria is a Dragon/Flying type Pokémon introduced in Generation 3. It is known as the Humming Pokémon.
+Dottler,Dottler is a Bug/Psychic type Pokémon introduced in Generation 8. It is known as the Radome Pokémon.
+Octillery,Octillery is a Water type Pokémon introduced in Generation 2. It is known as the Jet Pokémon.
+Plusle,Plusle is an Electric type Pokémon introduced in Generation 3. It is known as the Cheering Pokémon.
+Durant,Durant is a Bug/Steel type Pokémon introduced in Generation 5. It is known as the Iron Ant Pokémon.
+Leavanny,Leavanny is a Bug/Grass type Pokémon introduced in Generation 5. It is known as the Nurturing Pokémon.
+Wingull,Wingull is a Water/Flying type Pokémon introduced in Generation 3. It is known as the Seagull Pokémon.
+Azelf,Azelf is a Psychic type Pokémon introduced in Generation 4. It is known as the Willpower Pokémon.
+Poliwag,Poliwag is a Water type Pokémon introduced in Generation 1. It is known as the Tadpole Pokémon.
+Barbaracle,Barbaracle is a Rock/Water type Pokémon introduced in Generation 6. It is known as the Collective Pokémon.
+Ninetales,Ninetales is a Fire type Pokémon introduced in Generation 1. It is known as the Fox Pokémon.
+Shellos,Shellos is a Water type Pokémon introduced in Generation 4. It is known as the Sea Slug Pokémon.
+Weavile,Weavile is a Dark/Ice type Pokémon introduced in Generation 4. It is known as the Sharp Claw Pokémon.
+Pawniard,Pawniard is a Dark/Steel type Pokémon introduced in Generation 5. It is known as the Sharp Blade Pokémon.
+Inkay,Inkay is a Dark/Psychic type Pokémon introduced in Generation 6. It is known as the Revolving Pokémon.
+Aromatisse,Aromatisse is a Fairy type Pokémon introduced in Generation 6. It is known as the Fragrance Pokémon.
+Sudowoodo,Sudowoodo is a Rock type Pokémon introduced in Generation 2. It is known as the Imitation Pokémon.
+Mr. Mime,Mr. Mime is a Psychic/Fairy type Pokémon introduced in Generation 1. It is known as the Barrier Pokémon.
+Morelull,Morelull is a Grass/Fairy type Pokémon introduced in Generation 7. It is known as the Illuminating Pokémon.
+Rotom,Rotom is an Electric/Ghost type Pokémon introduced in Generation 4. It is known as the Plasma Pokémon.
+Delibird,Delibird is an Ice/Flying type Pokémon introduced in Generation 2. It is known as the Delivery Pokémon.
+Mudkip,Mudkip is a Water type Pokémon introduced in Generation 3. It is known as the Mud Fish Pokémon.
+Foongus,Foongus is a Grass/Poison type Pokémon introduced in Generation 5. It is known as the Mushroom Pokémon.
+Ampharos,Ampharos is an Electric type Pokémon introduced in Generation 2. It is known as the Light Pokémon.
+Vibrava,Vibrava is a Ground/Dragon type Pokémon introduced in Generation 3. It is known as the Vibration Pokémon.
+Cloyster,Cloyster is a Water/Ice type Pokémon introduced in Generation 1. It is known as the Bivalve Pokémon.
+Trubbish,Trubbish is a Poison type Pokémon introduced in Generation 5. It is known as the Trash Bag Pokémon.
+Zoroark,Zoroark is a Dark type Pokémon introduced in Generation 5. It is known as the Illusion Fox Pokémon.
+Ivysaur,Ivysaur is a Grass/Poison type Pokémon introduced in Generation 1. It is known as the Seed Pokémon.
+Wooloo,Wooloo is a Normal type Pokémon introduced in Generation 8. It is known as the Sheep Pokémon.
+Corvisquire,Corvisquire is a Flying type Pokémon introduced in Generation 8. It is known as the Raven Pokémon.
+Arrokuda,Arrokuda is a Water type Pokémon introduced in Generation 8. It is known as the Rush Pokémon.
+Kartana,Kartana is a Grass/Steel type Pokémon introduced in Generation 7. It is known as the Drawn Sword Pokémon.
+Jirachi,Jirachi is a Steel/Psychic type Pokémon introduced in Generation 3. It is known as the Wish Pokémon.
+Magneton,Magneton is an Electric/Steel type Pokémon introduced in Generation 1. It is known as the Magnet Pokémon.
+Hariyama,Hariyama is a Fighting type Pokémon introduced in Generation 3. It is known as the Arm Thrust Pokémon.
+Passimian,Passimian is a Fighting type Pokémon introduced in Generation 7. It is known as the Teamwork Pokémon.
+Snorlax,Snorlax is a Normal type Pokémon introduced in Generation 1. It is known as the Sleeping Pokémon.
+Steelix,Steelix is a Steel/Ground type Pokémon introduced in Generation 2. It is known as the Iron Snake Pokémon.
+Surskit,Surskit is a Bug/Water type Pokémon introduced in Generation 3. It is known as the Pond Skater Pokémon.
+Trumbeak,Trumbeak is a Normal/Flying type Pokémon introduced in Generation 7. It is known as the Bugle Beak Pokémon.
+Porygon-Z,Porygon-Z is a Normal type Pokémon introduced in Generation 4. It is known as the Virtual Pokémon.
+Appletun,Appletun is a Grass/Dragon type Pokémon introduced in Generation 8. It is known as the Apple Nectar Pokémon.
+Grovyle,Grovyle is a Grass type Pokémon introduced in Generation 3. It is known as the Wood Gecko Pokémon.
+Hitmonchan,Hitmonchan is a Fighting type Pokémon introduced in Generation 1. It is known as the Punching Pokémon.
+Patrat,Patrat is a Normal type Pokémon introduced in Generation 5. It is known as the Scout Pokémon.
+Houndoom,Houndoom is a Dark/Fire type Pokémon introduced in Generation 2. It is known as the Dark Pokémon.
+Misdreavus,Misdreavus is a Ghost type Pokémon introduced in Generation 2. It is known as the Screech Pokémon.
+Swalot,Swalot is a Poison type Pokémon introduced in Generation 3. It is known as the Poison Bag Pokémon.
+Regice,Regice is an Ice type Pokémon introduced in Generation 3. It is known as the Iceberg Pokémon.
+Togetic,Togetic is a Fairy/Flying type Pokémon introduced in Generation 2. It is known as the Happiness Pokémon.
+Meowstic,Meowstic is a Psychic type Pokémon introduced in Generation 6. It is known as the Constraint Pokémon.
+Lampent,Lampent is a Ghost/Fire type Pokémon introduced in Generation 5. It is known as the Lamp Pokémon.
+Gliscor,Gliscor is a Ground/Flying type Pokémon introduced in Generation 4. It is known as the Fang Scorp Pokémon.
+Slowpoke,Slowpoke is a Water/Psychic type Pokémon introduced in Generation 1. It is known as the Dopey Pokémon.
+Squirtle,Squirtle is a Water type Pokémon introduced in Generation 1. It is known as the Tiny Turtle Pokémon.
+Kirlia,Kirlia is a Psychic/Fairy type Pokémon introduced in Generation 3. It is known as the Emotion Pokémon.
+Panpour,Panpour is a Water type Pokémon introduced in Generation 5. It is known as the Spray Pokémon.
+Hydreigon,Hydreigon is a Dark/Dragon type Pokémon introduced in Generation 5. It is known as the Brutal Pokémon.
+Cutiefly,Cutiefly is a Bug/Fairy type Pokémon introduced in Generation 7. It is known as the Bee Fly Pokémon.
+Binacle,Binacle is a Rock/Water type Pokémon introduced in Generation 6. It is known as the Two-Handed Pokémon.
+Timburr,Timburr is a Fighting type Pokémon introduced in Generation 5. It is known as the Muscular Pokémon.
+Solrock,Solrock is a Rock/Psychic type Pokémon introduced in Generation 3. It is known as the Meteorite Pokémon.
+Komala,Komala is a Normal type Pokémon introduced in Generation 7. It is known as the Drowsing Pokémon.
+Jumpluff,Jumpluff is a Grass/Flying type Pokémon introduced in Generation 2. It is known as the Cottonweed Pokémon.
+Aerodactyl,Aerodactyl is a Rock/Flying type Pokémon introduced in Generation 1. It is known as the Fossil Pokémon.
+Latias,Latias is a Dragon/Psychic type Pokémon introduced in Generation 3. It is known as the Eon Pokémon.
+Parasect,Parasect is a Bug/Grass type Pokémon introduced in Generation 1. It is known as the Mushroom Pokémon.
+Bulbasaur,Bulbasaur is a Grass/Poison type Pokémon introduced in Generation 1. It is known as the Seed Pokémon.
+Pidove,Pidove is a Normal/Flying type Pokémon introduced in Generation 5. It is known as the Tiny Pigeon Pokémon.
+Gloom,Gloom is a Grass/Poison type Pokémon introduced in Generation 1. It is known as the Weed Pokémon.
+Tyrantrum,Tyrantrum is a Rock/Dragon type Pokémon introduced in Generation 6. It is known as the Despot Pokémon.
+Porygon,Porygon is a Normal type Pokémon introduced in Generation 1. It is known as the Virtual Pokémon.
+Zubat,Zubat is a Poison/Flying type Pokémon introduced in Generation 1. It is known as the Bat Pokémon.
+Espurr,Espurr is a Psychic type Pokémon introduced in Generation 6. It is known as the Restraint Pokémon.
+Kabuto,Kabuto is a Rock/Water type Pokémon introduced in Generation 1. It is known as the Shellfish Pokémon.
+Meowth,Meowth is a Normal type Pokémon introduced in Generation 1. It is known as the Scratch Cat Pokémon.
+Croconaw,Croconaw is a Water type Pokémon introduced in Generation 2. It is known as the Big Jaw Pokémon.
+Hoothoot,Hoothoot is a Normal/Flying type Pokémon introduced in Generation 2. It is known as the Owl Pokémon.
+Electivire,Electivire is an Electric type Pokémon introduced in Generation 4. It is known as the Thunderbolt Pokémon.
+Barboach,Barboach is a Water/Ground type Pokémon introduced in Generation 3. It is known as the Whiskers Pokémon.
+Dracozolt,Dracozolt is an Electric/Dragon type Pokémon introduced in Generation 8. It is known as the Fossil Pokémon.
+Goldeen,Goldeen is a Water type Pokémon introduced in Generation 1. It is known as the Goldfish Pokémon.
+Darkrai,Darkrai is a Dark type Pokémon introduced in Generation 4. It is known as the Pitch-Black Pokémon.
+Granbull,Granbull is a Fairy type Pokémon introduced in Generation 2. It is known as the Fairy Pokémon.
+Mawile,Mawile is a Steel/Fairy type Pokémon introduced in Generation 3. It is known as the Deceiver Pokémon.
+Empoleon,Empoleon is a Water/Steel type Pokémon introduced in Generation 4. It is known as the Emperor Pokémon.
+Hoppip,Hoppip is a Grass/Flying type Pokémon introduced in Generation 2. It is known as the Cottonweed Pokémon.
+Slugma,Slugma is a Fire type Pokémon introduced in Generation 2. It is known as the Lava Pokémon.
+Munchlax,Munchlax is a Normal type Pokémon introduced in Generation 4. It is known as the Big Eater Pokémon.
+Blastoise,Blastoise is a Water type Pokémon introduced in Generation 1. It is known as the Shellfish Pokémon.
+Decidueye,Decidueye is a Grass/Ghost type Pokémon introduced in Generation 7. It is known as the Arrow Quill Pokémon.
+Aron,Aron is a Steel/Rock type Pokémon introduced in Generation 3. It is known as the Iron Armor Pokémon.
+Froakie,Froakie is a Water type Pokémon introduced in Generation 6. It is known as the Bubble Frog Pokémon.
+Latios,Latios is a Dragon/Psychic type Pokémon introduced in Generation 3. It is known as the Eon Pokémon.
+Reshiram,Reshiram is a Dragon/Fire type Pokémon introduced in Generation 5. It is known as the Vast White Pokémon.
+Boldore,Boldore is a Rock type Pokémon introduced in Generation 5. It is known as the Ore Pokémon.
+Jangmo-o,Jangmo-o is a Dragon type Pokémon introduced in Generation 7. It is known as the Scaly Pokémon.
+Phione,Phione is a Water type Pokémon introduced in Generation 4. It is known as the Sea Drifter Pokémon.
+Hitmonlee,Hitmonlee is a Fighting type Pokémon introduced in Generation 1. It is known as the Kicking Pokémon.
+Volcarona,Volcarona is a Bug/Fire type Pokémon introduced in Generation 5. It is known as the Sun Pokémon.
+Articuno,Articuno is an Ice/Flying type Pokémon introduced in Generation 1. It is known as the Freeze Pokémon.
+Zekrom,Zekrom is a Dragon/Electric type Pokémon introduced in Generation 5. It is known as the Deep Black Pokémon.
+Vulpix,Vulpix is a Fire type Pokémon introduced in Generation 1. It is known as the Fox Pokémon.
+Toxel,Toxel is an Electric/Poison type Pokémon introduced in Generation 8. It is known as the Baby Pokémon.
+Weepinbell,Weepinbell is a Grass/Poison type Pokémon introduced in Generation 1. It is known as the Flycatcher Pokémon.
+Pichu,Pichu is an Electric type Pokémon introduced in Generation 2. It is known as the Tiny Mouse Pokémon.
+Mime Jr.,Mime Jr. is a Psychic/Fairy type Pokémon introduced in Generation 4. It is known as the Mime Pokémon.
+Scatterbug,Scatterbug is a Bug type Pokémon introduced in Generation 6. It is known as the Scatterdust Pokémon.
+Noctowl,Noctowl is a Normal/Flying type Pokémon introduced in Generation 2. It is known as the Owl Pokémon.
+Heliolisk,Heliolisk is an Electric/Normal type Pokémon introduced in Generation 6. It is known as the Generator Pokémon.
+Regirock,Regirock is a Rock type Pokémon introduced in Generation 3. It is known as the Rock Peak Pokémon.
+Staravia,Staravia is a Normal/Flying type Pokémon introduced in Generation 4. It is known as the Starling Pokémon.
+Kyurem,Kyurem is a Dragon/Ice type Pokémon introduced in Generation 5. It is known as the Boundary Pokémon.
+Ditto,Ditto is a Normal type Pokémon introduced in Generation 1. It is known as the Transform Pokémon.
+Solosis,Solosis is a Psychic type Pokémon introduced in Generation 5. It is known as the Cell Pokémon.
+Xurkitree,Xurkitree is an Electric type Pokémon introduced in Generation 7. It is known as the Glowing Pokémon.
+Amoonguss,Amoonguss is a Grass/Poison type Pokémon introduced in Generation 5. It is known as the Mushroom Pokémon.
+Machamp,Machamp is a Fighting type Pokémon introduced in Generation 1. It is known as the Superpower Pokémon.
+Huntail,Huntail is a Water type Pokémon introduced in Generation 3. It is known as the Deep Sea Pokémon.
+Honedge,Honedge is a Steel/Ghost type Pokémon introduced in Generation 6. It is known as the Sword Pokémon.
+Sunkern,Sunkern is a Grass type Pokémon introduced in Generation 2. It is known as the Seed Pokémon.
+Noibat,Noibat is a Flying/Dragon type Pokémon introduced in Generation 6. It is known as the Sound Wave Pokémon.
+Milcery,Milcery is a Fairy type Pokémon introduced in Generation 8. It is known as the Cream Pokémon.
+Zorua,Zorua is a Dark type Pokémon introduced in Generation 5. It is known as the Tricky Fox Pokémon.
+Tangela,Tangela is a Grass type Pokémon introduced in Generation 1. It is known as the Vine Pokémon.
+Absol,Absol is a Dark type Pokémon introduced in Generation 3. It is known as the Disaster Pokémon.
+Yanmega,Yanmega is a Bug/Flying type Pokémon introduced in Generation 4. It is known as the Ogre Darner Pokémon.
+Wartortle,Wartortle is a Water type Pokémon introduced in Generation 1. It is known as the Turtle Pokémon.
+Magearna,Magearna is a Steel/Fairy type Pokémon introduced in Generation 7. It is known as the Artificial Pokémon.
+Tentacruel,Tentacruel is a Water/Poison type Pokémon introduced in Generation 1. It is known as the Jellyfish Pokémon.
+Arceus,Arceus is a Normal type Pokémon introduced in Generation 4. It is known as the Alpha Pokémon.
+Electrode,Electrode is an Electric type Pokémon introduced in Generation 1. It is known as the Ball Pokémon.
+Roggenrola,Roggenrola is a Rock type Pokémon introduced in Generation 5. It is known as the Mantle Pokémon.
+Chimchar,Chimchar is a Fire type Pokémon introduced in Generation 4. It is known as the Chimp Pokémon.
+Sigilyph,Sigilyph is a Psychic/Flying type Pokémon introduced in Generation 5. It is known as the Avianoid Pokémon.
+Hattrem,Hattrem is a Psychic type Pokémon introduced in Generation 8. It is known as the Serene Pokémon.
+Swanna,Swanna is a Water/Flying type Pokémon introduced in Generation 5. It is known as the White Bird Pokémon.
+Vanillish,Vanillish is an Ice type Pokémon introduced in Generation 5. It is known as the Icy Snow Pokémon.
+Diglett,Diglett is a Ground type Pokémon introduced in Generation 1. It is known as the Mole Pokémon.
+Wailord,Wailord is a Water type Pokémon introduced in Generation 3. It is known as the Float Whale Pokémon.
+Claydol,Claydol is a Ground/Psychic type Pokémon introduced in Generation 3. It is known as the Clay Doll Pokémon.
+Drakloak,Drakloak is a Dragon/Ghost type Pokémon introduced in Generation 8. It is known as the Caretaker Pokémon.
+Type: Null,Type: Null is a Normal type Pokémon introduced in Generation 7. It is known as the Synthetic Pokémon.
+Dusknoir,Dusknoir is a Ghost type Pokémon introduced in Generation 4. It is known as the Gripper Pokémon.
+Kangaskhan,Kangaskhan is a Normal type Pokémon introduced in Generation 1. It is known as the Parent Pokémon.
+Wynaut,Wynaut is a Psychic type Pokémon introduced in Generation 3. It is known as the Bright Pokémon.
+Growlithe,Growlithe is a Fire type Pokémon introduced in Generation 1. It is known as the Puppy Pokémon.
+Happiny,Happiny is a Normal type Pokémon introduced in Generation 4. It is known as the Playhouse Pokémon.
+Gothorita,Gothorita is a Psychic type Pokémon introduced in Generation 5. It is known as the Manipulate Pokémon.
+Rhyperior,Rhyperior is a Ground/Rock type Pokémon introduced in Generation 4. It is known as the Drill Pokémon.
+Golett,Golett is a Ground/Ghost type Pokémon introduced in Generation 5. It is known as the Automaton Pokémon.
+Taillow,Taillow is a Normal/Flying type Pokémon introduced in Generation 3. It is known as the TinySwallow Pokémon.
+Slaking,Slaking is a Normal type Pokémon introduced in Generation 3. It is known as the Lazy Pokémon.
+Kakuna,Kakuna is a Bug/Poison type Pokémon introduced in Generation 1. It is known as the Cocoon Pokémon.
+Regigigas,Regigigas is a Normal type Pokémon introduced in Generation 4. It is known as the Colossal Pokémon.
+Lapras,Lapras is a Water/Ice type Pokémon introduced in Generation 1. It is known as the Transport Pokémon.
+Teddiursa,Teddiursa is a Normal type Pokémon introduced in Generation 2. It is known as the Little Bear Pokémon.
+Zapdos,Zapdos is an Electric/Flying type Pokémon introduced in Generation 1. It is known as the Electric Pokémon.
+Armaldo,Armaldo is a Rock/Bug type Pokémon introduced in Generation 3. It is known as the Plate Pokémon.
+Exeggcute,Exeggcute is a Grass/Psychic type Pokémon introduced in Generation 1. It is known as the Egg Pokémon.
+Vaporeon,Vaporeon is a Water type Pokémon introduced in Generation 1. It is known as the Bubble Jet Pokémon.
+Drowzee,Drowzee is a Psychic type Pokémon introduced in Generation 1. It is known as the Hypnosis Pokémon.
+Mesprit,Mesprit is a Psychic type Pokémon introduced in Generation 4. It is known as the Emotion Pokémon.
+Shuckle,Shuckle is a Bug/Rock type Pokémon introduced in Generation 2. It is known as the Mold Pokémon.
+Kubfu,Kubfu is a Fighting type Pokémon introduced in Generation 8. It is known as the Wushu Pokémon.
+Rhyhorn,Rhyhorn is a Ground/Rock type Pokémon introduced in Generation 1. It is known as the Spikes Pokémon.
+Pyroar,Pyroar is a Fire/Normal type Pokémon introduced in Generation 6. It is known as the Royal Pokémon.
+Swadloon,Swadloon is a Bug/Grass type Pokémon introduced in Generation 5. It is known as the Leaf-Wrapped Pokémon.
+Houndour,Houndour is a Dark/Fire type Pokémon introduced in Generation 2. It is known as the Dark Pokémon.
+Dialga,Dialga is a Steel/Dragon type Pokémon introduced in Generation 4. It is known as the Temporal Pokémon.
+Zeraora,Zeraora is an Electric type Pokémon introduced in Generation 7. It is known as the Thunderclap Pokémon.
+Joltik,Joltik is a Bug/Electric type Pokémon introduced in Generation 5. It is known as the Attaching Pokémon.
+Thwackey,Thwackey is a Grass type Pokémon introduced in Generation 8. It is known as the Beat Pokémon.
+Dragonair,Dragonair is a Dragon type Pokémon introduced in Generation 1. It is known as the Dragon Pokémon.
+Chewtle,Chewtle is a Water type Pokémon introduced in Generation 8. It is known as the Snapping Pokémon.
+Blaziken,Blaziken is a Fire/Fighting type Pokémon introduced in Generation 3. It is known as the Blaze Pokémon.
+Spritzee,Spritzee is a Fairy type Pokémon introduced in Generation 6. It is known as the Perfume Pokémon.
+Raichu,Raichu is an Electric type Pokémon introduced in Generation 1. It is known as the Mouse Pokémon.
+Poochyena,Poochyena is a Dark type Pokémon introduced in Generation 3. It is known as the Bite Pokémon.
+Minun,Minun is an Electric type Pokémon introduced in Generation 3. It is known as the Cheering Pokémon.
+Illumise,Illumise is a Bug type Pokémon introduced in Generation 3. It is known as the Firefly Pokémon.
+Gallade,Gallade is a Psychic/Fighting type Pokémon introduced in Generation 4. It is known as the Blade Pokémon.
+Bidoof,Bidoof is a Normal type Pokémon introduced in Generation 4. It is known as the Plump Mouse Pokémon.
+Beheeyem,Beheeyem is a Psychic type Pokémon introduced in Generation 5. It is known as the Cerebral Pokémon.
+Torkoal,Torkoal is a Fire type Pokémon introduced in Generation 3. It is known as the Coal Pokémon.
+Gigalith,Gigalith is a Rock type Pokémon introduced in Generation 5. It is known as the Compressed Pokémon.
+Stufful,Stufful is a Normal/Fighting type Pokémon introduced in Generation 7. It is known as the Flailing Pokémon.
+Chespin,Chespin is a Grass type Pokémon introduced in Generation 6. It is known as the Spiny Nut Pokémon.
+Sandygast,Sandygast is a Ghost/Ground type Pokémon introduced in Generation 7. It is known as the Sand Heap Pokémon.
+Cosmoem,Cosmoem is a Psychic type Pokémon introduced in Generation 7. It is known as the Protostar Pokémon.
+Mothim,Mothim is a Bug/Flying type Pokémon introduced in Generation 4. It is known as the Moth Pokémon.
+Flabébé,Flabébé is a Fairy type Pokémon introduced in Generation 6. It is known as the Single Bloom Pokémon.
+Aggron,Aggron is a Steel/Rock type Pokémon introduced in Generation 3. It is known as the Iron Armor Pokémon.
+Zamazenta,Zamazenta is a Fighting/Steel type Pokémon introduced in Generation 8. It is known as the Warrior Pokémon.
+Cranidos,Cranidos is a Rock type Pokémon introduced in Generation 4. It is known as the Head Butt Pokémon.
+Orbeetle,Orbeetle is a Bug/Psychic type Pokémon introduced in Generation 8. It is known as the Seven Spot Pokémon.
+Oddish,Oddish is a Grass/Poison type Pokémon introduced in Generation 1. It is known as the Weed Pokémon.
+Mantine,Mantine is a Water/Flying type Pokémon introduced in Generation 2. It is known as the Kite Pokémon.
+Eevee,Eevee is a Normal type Pokémon introduced in Generation 1. It is known as the Evolution Pokémon.
+Mudsdale,Mudsdale is a Ground type Pokémon introduced in Generation 7. It is known as the Draft Horse Pokémon.
+Talonflame,Talonflame is a Fire/Flying type Pokémon introduced in Generation 6. It is known as the Scorching Pokémon.
+Muk,Muk is a Poison type Pokémon introduced in Generation 1. It is known as the Sludge Pokémon.
+Farfetch'd,Farfetch'd is a Normal/Flying type Pokémon introduced in Generation 1. It is known as the Wild Duck Pokémon.
+Golurk,Golurk is a Ground/Ghost type Pokémon introduced in Generation 5. It is known as the Automaton Pokémon.
+Anorith,Anorith is a Rock/Bug type Pokémon introduced in Generation 3. It is known as the Old Shrimp Pokémon.
+Probopass,Probopass is a Rock/Steel type Pokémon introduced in Generation 4. It is known as the Compass Pokémon.
+Shaymin,Shaymin is a Grass type Pokémon introduced in Generation 4. It is known as the Gratitude Pokémon.
+Hoopa,Hoopa is a Psychic/Ghost type Pokémon introduced in Generation 6. It is known as the Mischief Pokémon.
+Morpeko,Morpeko is an Electric/Dark type Pokémon introduced in Generation 8. It is known as the Two-Sided Pokémon.
+Horsea,Horsea is a Water type Pokémon introduced in Generation 1. It is known as the Dragon Pokémon.
+Starly,Starly is a Normal/Flying type Pokémon introduced in Generation 4. It is known as the Starling Pokémon.
+Greninja,Greninja is a Water/Dark type Pokémon introduced in Generation 6. It is known as the Ninja Pokémon.
+Celebi,Celebi is a Psychic/Grass type Pokémon introduced in Generation 2. It is known as the Time Travel Pokémon.
+Inteleon,Inteleon is a Water type Pokémon introduced in Generation 8. It is known as the Secret Agent Pokémon.
+Unown,Unown is a Psychic type Pokémon introduced in Generation 2. It is known as the Symbol Pokémon.
+Buizel,Buizel is a Water type Pokémon introduced in Generation 4. It is known as the Sea Weasel Pokémon.
+Spoink,Spoink is a Psychic type Pokémon introduced in Generation 3. It is known as the Bounce Pokémon.
+Seviper,Seviper is a Poison type Pokémon introduced in Generation 3. It is known as the Fang Snake Pokémon.
+Braixen,Braixen is a Fire type Pokémon introduced in Generation 6. It is known as the Fox Pokémon.
+Yveltal,Yveltal is a Dark/Flying type Pokémon introduced in Generation 6. It is known as the Destruction Pokémon.
+Metapod,Metapod is a Bug type Pokémon introduced in Generation 1. It is known as the Cocoon Pokémon.
+Primarina,Primarina is a Water/Fairy type Pokémon introduced in Generation 7. It is known as the Soloist Pokémon.
+Chingling,Chingling is a Psychic type Pokémon introduced in Generation 4. It is known as the Bell Pokémon.
+Lopunny,Lopunny is a Normal type Pokémon introduced in Generation 4. It is known as the Rabbit Pokémon.
+Rapidash,Rapidash is a Fire type Pokémon introduced in Generation 1. It is known as the Fire Horse Pokémon.
+Nihilego,Nihilego is a Rock/Poison type Pokémon introduced in Generation 7. It is known as the Parasite Pokémon.
+Girafarig,Girafarig is a Normal/Psychic type Pokémon introduced in Generation 2. It is known as the Long Neck Pokémon.
+Malamar,Malamar is a Dark/Psychic type Pokémon introduced in Generation 6. It is known as the Overturning Pokémon.
+Purrloin,Purrloin is a Dark type Pokémon introduced in Generation 5. It is known as the Devious Pokémon.
+Carnivine,Carnivine is a Grass type Pokémon introduced in Generation 4. It is known as the Bug Catcher Pokémon.
+Venusaur,Venusaur is a Grass/Poison type Pokémon introduced in Generation 1. It is known as the Seed Pokémon.
+Butterfree,Butterfree is a Bug/Flying type Pokémon introduced in Generation 1. It is known as the Butterfly Pokémon.
+Marill,Marill is a Water/Fairy type Pokémon introduced in Generation 2. It is known as the Aqua Mouse Pokémon.
+Drapion,Drapion is a Poison/Dark type Pokémon introduced in Generation 4. It is known as the Ogre Scorp Pokémon.
+Bagon,Bagon is a Dragon type Pokémon introduced in Generation 3. It is known as the Rock Head Pokémon.
+Applin,Applin is a Grass/Dragon type Pokémon introduced in Generation 8. It is known as the Apple Core Pokémon.
+Silvally,Silvally is a Normal type Pokémon introduced in Generation 7. It is known as the Synthetic Pokémon.
+Bellossom,Bellossom is a Grass type Pokémon introduced in Generation 2. It is known as the Flower Pokémon.
+Pignite,Pignite is a Fire/Fighting type Pokémon introduced in Generation 5. It is known as the Fire Pig Pokémon.
+Alcremie,Alcremie is a Fairy type Pokémon introduced in Generation 8. It is known as the Cream Pokémon.
+Donphan,Donphan is a Ground type Pokémon introduced in Generation 2. It is known as the Armor Pokémon.
+Duosion,Duosion is a Psychic type Pokémon introduced in Generation 5. It is known as the Mitosis Pokémon.
+Quagsire,Quagsire is a Water/Ground type Pokémon introduced in Generation 2. It is known as the Water Fish Pokémon.
+Lotad,Lotad is a Water/Grass type Pokémon introduced in Generation 3. It is known as the Water Weed Pokémon.
+Scrafty,Scrafty is a Dark/Fighting type Pokémon introduced in Generation 5. It is known as the Hoodlum Pokémon.
+Azurill,Azurill is a Normal/Fairy type Pokémon introduced in Generation 3. It is known as the Polka Dot Pokémon.
+Tepig,Tepig is a Fire type Pokémon introduced in Generation 5. It is known as the Fire Pig Pokémon.
+Beartic,Beartic is an Ice type Pokémon introduced in Generation 5. It is known as the Freezing Pokémon.
+Scraggy,Scraggy is a Dark/Fighting type Pokémon introduced in Generation 5. It is known as the Shedding Pokémon.
+Dustox,Dustox is a Bug/Poison type Pokémon introduced in Generation 3. It is known as the Poison Moth Pokémon.
+Lumineon,Lumineon is a Water type Pokémon introduced in Generation 4. It is known as the Neon Pokémon.
+Meltan,Meltan is a Steel type Pokémon introduced in Generation 7. It is known as the Hex Nut Pokémon.
+Wishiwashi,Wishiwashi is a Water type Pokémon introduced in Generation 7. It is known as the Small Fry Pokémon.
+Lunala,Lunala is a Psychic/Ghost type Pokémon introduced in Generation 7. It is known as the Moone Pokémon.
+Golisopod,Golisopod is a Bug/Water type Pokémon introduced in Generation 7. It is known as the Hard Scale Pokémon.
+Clefairy,Clefairy is a Fairy type Pokémon introduced in Generation 1. It is known as the Fairy Pokémon.
+Pheromosa,Pheromosa is a Bug/Fighting type Pokémon introduced in Generation 7. It is known as the Lissome Pokémon.
+Ludicolo,Ludicolo is a Water/Grass type Pokémon introduced in Generation 3. It is known as the Carefree Pokémon.
+Venipede,Venipede is a Bug/Poison type Pokémon introduced in Generation 5. It is known as the Centipede Pokémon.
+Breloom,Breloom is a Grass/Fighting type Pokémon introduced in Generation 3. It is known as the Mushroom Pokémon.
+Yungoos,Yungoos is a Normal type Pokémon introduced in Generation 7. It is known as the Loitering Pokémon.
