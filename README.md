@@ -31,9 +31,15 @@ Pokemon is one of the famous cartoon series which is been loved by all age group
    </td>
    <td align="center" width="96">
       <a href="#">
-        <img loading="lazy" src="https://data-ox.com/wp-content/uploads/2020/09/webscrapper.jpg" alt="web-scrapper" width="100" height="60"/>
+        <img loading="lazy" src="https://img.icons8.com/?size=512&id=ITIhejPZQD5g&format=png" alt="web-scrapper" width="100" height="60"/>
       </a>
       <br> WebScrapper
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img loading="lazy" src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1" alt="Python" width="100" height="60"/>
+      </a>
+      <br> Python
     </td>
   </tr>
 </table>
