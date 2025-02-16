@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/49811782/135673141-466db176-7646-4f2c-b886-87c0123c6c95.png)
+
 About the Project 📊
 Pokémon has been a beloved series for fans of all ages, with its diverse characters, thrilling battles, and exciting adventures. This Pokémon Dashboard project was built out of curiosity and a love for the franchise, aiming to present something truly unique in data analytics. As a dedicated Pokémon fan, working on this project was an enjoyable and rewarding experience!
 
