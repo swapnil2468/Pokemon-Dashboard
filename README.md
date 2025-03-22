@@ -27,7 +27,7 @@ Pokemon is one of the famous cartoon series which is been loved by all age group
     <a href="#" target="_blank"> 
      <img loading="lazy" src="https://webobjects2.cdw.com/is/image/CDW/5300125?$product-main$" alt="excel" width="40" height="40"/>
     </a>
-    <br/> Ecel
+    <br/> Excel
    </td>
    <td align="center" width="96">
       <a href="#">
