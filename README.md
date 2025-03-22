@@ -1,19 +1,19 @@
 ![image](https://user-images.githubusercontent.com/49811782/135673141-466db176-7646-4f2c-b886-87c0123c6c95.png)
 
 # About the Project 📊
-Pokemon is one of the famous cartoon series which is been loved by all age group people. Different types of Pokemons and their powers along with journey with their trainers is quite interesting and amazing. The Pokemon Dashboard project is fun data analytics project which is made with curosity to make something different. As I am a Pokemon fan developing this project was a fun task for me.
+Pokemon is one of the famous cartoon series which is been loved by all age group people. Different types of Pokemons and their powers along with journey with their trainers is quite interesting and amazing. The Pokemon Dashboard project is a fun data analytics project which is made with curiosity to make something different. As I am a Pokemon fan, developing this project was a fun task for me.
 
-# Key features about the project 🔥
+# Key Features of the Project 🔥
 
-👉 There are some pokemon dashboard projects availabe on internet but the project developed here will not be found anywhere it is a unique one.
+👉 There are some Pokemon dashboard projects available on the internet, but the project developed here is unique and cannot be found anywhere else.
 
-👉 The evolution page of the project is bit different.
+👉 The evolution page of the project is a bit different from other dashboards.
 
-👉 The dataset which is been used in the project is not availabe anywhere on internet. The dataset and images of the dataset are made by web scrapping through various websites.
+👉 The dataset used in the project is not available anywhere on the internet. The dataset and images were created by web scraping various websites.
 
-👉 If you have seen the Pokemon cartoon each trainer has a Pokedex with them, here we have tried to make a similar kind of Pokedex but its a virtual one. 😂😂
+👉 If you have seen the Pokemon cartoon, each trainer has a Pokedex with them. Here, we have tried to make a similar kind of Pokedex, but it is a virtual one. 😂😂
 
-# Tools used:
+# Tools Used 🛠️
 
 <table align="center">
   <tr>
@@ -44,13 +44,28 @@ Pokemon is one of the famous cartoon series which is been loved by all age group
   </tr>
 </table>
 
+# About the Dataset 📝
 
-# About the dataset 📝
+👉 **Pokemon Details**: The first dataset contains various details such as types, species, growth, abilities, attack score, HP score, defense score, resistance against different types of Pokemon, and most importantly, their images.
 
-👉 **Pokemon Details**: The first dataset used is the Pokemon details which contains various details like what are their types, species, growth, abilities, their attack score, HP score, defence score, ability towards different types of pokemon, *(most important)* their images etc.
+👉 **Pokemon Evolution Dataset**: The dataset includes images of Pokemon evolution from level 1 to level 3.
 
-👉 **Pokemon Evolution Dataset**: The dataset has the images of Pokemon evolution at level 1, level 2 followed by level 3.
+👉 **Pokemon Description Dataset**: This dataset contains descriptions of various Pokemons.
 
-👉 **Pokemon Description Dataset:** The dataset which has the description about the various Pokemons.
+👉 **Pokemon Types Images Dataset**: The dataset includes various images representing Pokemon types such as water, fire, grass, electric, etc.
 
-👉 **Pokemon types images Dataset**: The dataset contains various images of the types of Pokemons example: water, fire, grass, electric, etc.
+---
+
+# 📷 Dashboard Outputs
+Below are some visuals from the Power BI dashboard, showcasing Pokemon statistics, evolution trends, and insights from the dataset.
+
+![Dashboard Screenshot](https://via.placeholder.com/800x400)
+
+---
+
+# 🌟 Future Enhancements
+- **Adding Interactive Filters**: Allow users to dynamically explore Pokemon stats based on type, strength, and abilities.
+- **Integration with External APIs**: Fetch live Pokemon data to keep the dashboard updated.
+- **Performance Optimization**: Improve data processing and visualization speed.
+
+🚀 Stay tuned for more updates!
