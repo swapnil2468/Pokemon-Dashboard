@@ -54,12 +54,43 @@ Pokemon is one of the famous cartoon series which is been loved by all age group
 
 👉 **Pokemon Types Images Dataset**: The dataset includes various images representing Pokemon types such as water, fire, grass, electric, etc.
 
----
+
+# 🔊 Text-to-Speech Feature
+This project includes a **text-to-speech (TTS) feature** that reads out Pokemon descriptions using Python's `pyttsx3` library. This enhances the interactive experience, making it feel more like a real Pokedex.
+
+### Python Script Used:
+```python
+import matplotlib.pyplot as plt
+import pyttsx3
+
+# Initialize text-to-speech engine
+engine = pyttsx3.init()
+engine.setProperty('rate', 155)  # Adjust speed
+engine.setProperty('volume', 1.0)  # Max volume
+
+# Check if "Description" exists in dataset
+if "Description" in dataset.columns and not dataset["Description"].isna().all():
+    text = dataset["Description"].iloc[0]
+    engine.say(text)
+    engine.runAndWait()  # Speak the description
+
+# Keep a dummy plot displayed so Power BI doesn't throw an error
+plt.figure(figsize=(2, 1))
+plt.text(0.5, 0.5, "", fontsize=12, ha="center")
+plt.axis("off")
+plt.show()
+```
 
 # 📷 Dashboard Outputs
 Below are some visuals from the Power BI dashboard, showcasing Pokemon statistics, evolution trends, and insights from the dataset.
 
-![Dashboard Screenshot](https://via.placeholder.com/800x400)
+![Dashboard Screenshot](output/final%20output_page-0001.jpg)
+
+
+![Dashboard Screenshot](output/final%20output_page-0002.jpg)
+
+
+![Dashboard Screenshot](output/final%20output_page-0003.jpg)
 
 ---
 
